@@ -2,7 +2,7 @@
 
 ## Ejemplo de analisis
 
-![Lima](figures/lima_cum.png)
+<img src="figures/lima_cum.png" width="800">
 
 ## Fuentes
 
