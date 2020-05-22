@@ -1,10 +1,16 @@
 # Limpieza rapida de datos de covid de minsa
 
+## Ejemplo de analisis
+
+![Lima](images/lima_cum.png)
+
+## Fuentes
 
 - Thread: https://twitter.com/Jlincio/status/1263642080968089601
 - Casos positivos: https://www.datosabiertos.gob.pe/dataset/casos-positivos-por-covid-19-ministerio-de-salud-minsa
 - Fallecidos por COVID-19: https://www.datosabiertos.gob.pe/dataset/fallecidos-por-covid-19-ministerio-de-salud-minsa
 - Ubigeos 2019 de: https://github.com/ernestorivero/Ubigeo-Peru
+- Poblacion por distrito: https://www.inei.gob.pe/estadisticas/indice-tematico/poblacion-y-vivienda/ . Esta solo al 2015 y en Excel, asi que use esta que es mas accesible: https://github.com/geodir/ubigeo-peru/blob/master/geodir-ubigeo-inei.csv (pero la del INEI tiene por rangos de edad, que permitiria calcular poblacion vulnerable)
 
 ## Pasos
 

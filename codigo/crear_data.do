@@ -14,6 +14,8 @@
 
 	global input_path "../input"
 	global output_path "../output"
+	set type double, permanently
+
 
 	do crear_ubigeo
 
@@ -107,10 +109,12 @@
 	li dpto prov dist if mi(ubigeo)
 	drop if mi(ubigeo)
 
+	merge m:1 ubigeo using "$output_path/poblacion", keep(master match) keepusing(poblacion superficie lat lon) nogen nolab nonote
 
 
-keep uuid birth_date exam_date death_date is_female exam_type is_death dpto prov dist ubigeo
-order uuid birth_date exam_date death_date is_female exam_type is_death dpto prov dist ubigeo
+
+keep uuid birth_date exam_date death_date is_female exam_type is_death dpto prov dist ubigeo poblacion superficie lat lon
+order uuid birth_date exam_date death_date is_female exam_type is_death dpto prov dist ubigeo poblacion superficie lat lon
 sort exam_date death_date
 compress
 

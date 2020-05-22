@@ -27,5 +27,5 @@ tw	(line n exam_date, lc(black) lw(thick) ) ///
 	legend(off) ///
 	xsize(20) ysize(12)
 
-graph export "lima_callao.png", replace width(2000)
-graph export "lima_callao.pdf", replace
+graph export "../figures/lima_callao.png", replace width(2000)
+graph export "../figures/lima_callao.pdf", replace
