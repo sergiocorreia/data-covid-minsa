@@ -1,8 +1,12 @@
 # Limpieza rapida de datos de covid de minsa
 
-## Ejemplo de analisis
+## Ejemplos de analisis
 
-<img src="figures/lima_cum.png" width="800">
+<img src="figures/lima_cum.png" width="600">
+
+<img src="figures/densidad.png" width="600">
+
+<img src="figures/mapa.png" width="600">
 
 ## Fuentes
 
