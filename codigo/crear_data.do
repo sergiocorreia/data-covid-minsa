@@ -38,7 +38,7 @@
 	li fecha* departamento provincia distrito if N > 1
 	bys uuid (death_date): keep if _n == 1
 	gisid uuid
-	
+
 	clonevar dpto = departamento
 	clonevar prov = provincia
 	clonevar dist = distrito
@@ -119,6 +119,9 @@ sort exam_date death_date
 compress
 
 saveold "$output_path/covid_22mayo", replace v(14)
+
+* Fechas mas entendibles
+format %tdCY-N-D *date*
 outsheet using "$output_path/covid_22mayo.csv", comma replace
 
 exit
