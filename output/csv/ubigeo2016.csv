@@ -1,0 +1,1875 @@
+ubigeo,departamento,provincia,distrito,ubigeo_reniec,ubigeo_sunat
+10101,Amazonas,Chachapoyas,Chachapoyas,10101,10101
+10102,Amazonas,Chachapoyas,Asunción,10102,10102
+10103,Amazonas,Chachapoyas,Balsas,10103,10103
+10104,Amazonas,Chachapoyas,Cheto,10104,10104
+10105,Amazonas,Chachapoyas,Chiliquin,10105,10105
+10106,Amazonas,Chachapoyas,Chuquibamba,10106,10106
+10107,Amazonas,Chachapoyas,Granada,10107,10107
+10108,Amazonas,Chachapoyas,Huancas,10108,10108
+10109,Amazonas,Chachapoyas,La Jalca,10109,10109
+10110,Amazonas,Chachapoyas,Leimebamba,10110,10110
+10111,Amazonas,Chachapoyas,Levanto,10111,10111
+10112,Amazonas,Chachapoyas,Magdalena,10112,10112
+10113,Amazonas,Chachapoyas,Mariscal Castilla,10113,10113
+10114,Amazonas,Chachapoyas,Molinopampa,10114,10114
+10115,Amazonas,Chachapoyas,Montevideo,10115,10115
+10116,Amazonas,Chachapoyas,Olleros,10116,10116
+10117,Amazonas,Chachapoyas,Quinjalca,10117,10117
+10118,Amazonas,Chachapoyas,San Francisco de Daguas,10118,10118
+10119,Amazonas,Chachapoyas,San Isidro de Maino,10119,10119
+10120,Amazonas,Chachapoyas,Soloco,10120,10120
+10121,Amazonas,Chachapoyas,Sonche,10121,10121
+10201,Amazonas,Bagua,Bagua,10205,10201
+10202,Amazonas,Bagua,Aramango,10202,10202
+10203,Amazonas,Bagua,Copallin,10203,10203
+10204,Amazonas,Bagua,El Parco,10204,10204
+10205,Amazonas,Bagua,Imaza,10206,10205
+10206,Amazonas,Bagua,La Peca,10201,10206
+10301,Amazonas,Bongará,Jumbilla,10301,10301
+10302,Amazonas,Bongará,Chisquilla,10304,10302
+10303,Amazonas,Bongará,Churuja,10305,10303
+10304,Amazonas,Bongará,Corosha,10302,10304
+10305,Amazonas,Bongará,Cuispes,10303,10305
+10306,Amazonas,Bongará,Florida,10306,10306
+10307,Amazonas,Bongará,Jazan,10312,10307
+10308,Amazonas,Bongará,Recta,10307,10308
+10309,Amazonas,Bongará,San Carlos,10308,10309
+10310,Amazonas,Bongará,Shipasbamba,10309,10310
+10311,Amazonas,Bongará,Valera,10310,10311
+10312,Amazonas,Bongará,Yambrasbamba,10311,10312
+10401,Amazonas,Condorcanqui,Nieva,10601,10401
+10402,Amazonas,Condorcanqui,El Cenepa,10603,10402
+10403,Amazonas,Condorcanqui,Río Santiago,10602,10403
+10501,Amazonas,Luya,Lamud,10401,10501
+10502,Amazonas,Luya,Camporredondo,10402,10502
+10503,Amazonas,Luya,Cocabamba,10403,10503
+10504,Amazonas,Luya,Colcamar,10404,10504
+10505,Amazonas,Luya,Conila,10405,10505
+10506,Amazonas,Luya,Inguilpata,10406,10506
+10507,Amazonas,Luya,Longuita,10407,10507
+10508,Amazonas,Luya,Lonya Chico,10408,10508
+10509,Amazonas,Luya,Luya,10409,10509
+10510,Amazonas,Luya,Luya Viejo,10410,10510
+10511,Amazonas,Luya,María,10411,10511
+10512,Amazonas,Luya,Ocalli,10412,10512
+10513,Amazonas,Luya,Ocumal,10413,10513
+10514,Amazonas,Luya,Pisuquia,10414,10514
+10515,Amazonas,Luya,Providencia,10423,10515
+10516,Amazonas,Luya,San Cristóbal,10415,10516
+10517,Amazonas,Luya,San Francisco de Yeso,10416,10517
+10518,Amazonas,Luya,San Jerónimo,10417,10518
+10519,Amazonas,Luya,San Juan de Lopecancha,10418,10519
+10520,Amazonas,Luya,Santa Catalina,10419,10520
+10521,Amazonas,Luya,Santo Tomas,10420,10521
+10522,Amazonas,Luya,Tingo,10421,10522
+10523,Amazonas,Luya,Trita,10422,10523
+10601,Amazonas,Rodríguez de Mendoza,San Nicolás,10501,10601
+10602,Amazonas,Rodríguez de Mendoza,Chirimoto,10503,10602
+10603,Amazonas,Rodríguez de Mendoza,Cochamal,10502,10603
+10604,Amazonas,Rodríguez de Mendoza,Huambo,10504,10604
+10605,Amazonas,Rodríguez de Mendoza,Limabamba,10505,10605
+10606,Amazonas,Rodríguez de Mendoza,Longar,10506,10606
+10607,Amazonas,Rodríguez de Mendoza,Mariscal Benavides,10508,10607
+10608,Amazonas,Rodríguez de Mendoza,Milpuc,10507,10608
+10609,Amazonas,Rodríguez de Mendoza,Omia,10509,10609
+10610,Amazonas,Rodríguez de Mendoza,Santa Rosa,10510,10610
+10611,Amazonas,Rodríguez de Mendoza,Totora,10511,10611
+10612,Amazonas,Rodríguez de Mendoza,Vista Alegre,10512,10612
+10701,Amazonas,Utcubamba,Bagua Grande,10701,10701
+10702,Amazonas,Utcubamba,Cajaruro,10702,10702
+10703,Amazonas,Utcubamba,Cumba,10703,10703
+10704,Amazonas,Utcubamba,El Milagro,10704,10704
+10705,Amazonas,Utcubamba,Jamalca,10705,10705
+10706,Amazonas,Utcubamba,Lonya Grande,10706,10706
+10707,Amazonas,Utcubamba,Yamon,10707,10707
+20101,Áncash,Huaraz,Huaraz,20101,20101
+20102,Áncash,Huaraz,Cochabamba,20103,20102
+20103,Áncash,Huaraz,Colcabamba,20104,20103
+20104,Áncash,Huaraz,Huanchay,20105,20104
+20105,Áncash,Huaraz,Independencia,20102,20105
+20106,Áncash,Huaraz,Jangas,20106,20106
+20107,Áncash,Huaraz,La Libertad,20107,20107
+20108,Áncash,Huaraz,Olleros,20108,20108
+20109,Áncash,Huaraz,Pampas Grande,20109,20109
+20110,Áncash,Huaraz,Pariacoto,20110,20110
+20111,Áncash,Huaraz,Pira,20111,20111
+20112,Áncash,Huaraz,Tarica,20112,20112
+20201,Áncash,Aija,Aija,20201,20201
+20202,Áncash,Aija,Coris,20203,20202
+20203,Áncash,Aija,Huacllan,20205,20203
+20204,Áncash,Aija,La Merced,20206,20204
+20205,Áncash,Aija,Succha,20208,20205
+20301,Áncash,Antonio Raymondi,Llamellin,21601,20301
+20302,Áncash,Antonio Raymondi,Aczo,21602,20302
+20303,Áncash,Antonio Raymondi,Chaccho,21603,20303
+20304,Áncash,Antonio Raymondi,Chingas,21604,20304
+20305,Áncash,Antonio Raymondi,Mirgas,21605,20305
+20306,Áncash,Antonio Raymondi,San Juan de Rontoy,21606,20306
+20401,Áncash,Asunción,Chacas,21801,20401
+20402,Áncash,Asunción,Acochaca,21802,20402
+20501,Áncash,Bolognesi,Chiquian,20301,20501
+20502,Áncash,Bolognesi,Abelardo Pardo Lezameta,20302,20502
+20503,Áncash,Bolognesi,Antonio Raymondi,20321,20503
+20504,Áncash,Bolognesi,Aquia,20304,20504
+20505,Áncash,Bolognesi,Cajacay,20305,20505
+20506,Áncash,Bolognesi,Canis,20322,20506
+20507,Áncash,Bolognesi,Colquioc,20323,20507
+20508,Áncash,Bolognesi,Huallanca,20325,20508
+20509,Áncash,Bolognesi,Huasta,20311,20509
+20510,Áncash,Bolognesi,Huayllacayan,20310,20510
+20511,Áncash,Bolognesi,La Primavera,20324,20511
+20512,Áncash,Bolognesi,Mangas,20313,20512
+20513,Áncash,Bolognesi,Pacllon,20315,20513
+20514,Áncash,Bolognesi,San Miguel de Corpanqui,20317,20514
+20515,Áncash,Bolognesi,Ticllos,20320,20515
+20601,Áncash,Carhuaz,Carhuaz,20401,20601
+20602,Áncash,Carhuaz,Acopampa,20402,20602
+20603,Áncash,Carhuaz,Amashca,20403,20603
+20604,Áncash,Carhuaz,Anta,20404,20604
+20605,Áncash,Carhuaz,Ataquero,20405,20605
+20606,Áncash,Carhuaz,Marcara,20406,20606
+20607,Áncash,Carhuaz,Pariahuanca,20407,20607
+20608,Áncash,Carhuaz,San Miguel de Aco,20408,20608
+20609,Áncash,Carhuaz,Shilla,20409,20609
+20610,Áncash,Carhuaz,Tinco,20410,20610
+20611,Áncash,Carhuaz,Yungar,20411,20611
+20701,Áncash,Carlos Fermín Fitzcarrald,San Luis,21701,20701
+20702,Áncash,Carlos Fermín Fitzcarrald,San Nicolás,21703,20702
+20703,Áncash,Carlos Fermín Fitzcarrald,Yauya,21702,20703
+20801,Áncash,Casma,Casma,20501,20801
+20802,Áncash,Casma,Buena Vista Alta,20502,20802
+20803,Áncash,Casma,Comandante Noel,20503,20803
+20804,Áncash,Casma,Yautan,20505,20804
+20901,Áncash,Corongo,Corongo,20601,20901
+20902,Áncash,Corongo,Aco,20602,20902
+20903,Áncash,Corongo,Bambas,20603,20903
+20904,Áncash,Corongo,Cusca,20604,20904
+20905,Áncash,Corongo,La Pampa,20605,20905
+20906,Áncash,Corongo,Yanac,20606,20906
+20907,Áncash,Corongo,Yupan,20607,20907
+21001,Áncash,Huari,Huari,20801,21001
+21002,Áncash,Huari,Anra,20816,21002
+21003,Áncash,Huari,Cajay,20802,21003
+21004,Áncash,Huari,Chavin de Huantar,20803,21004
+21005,Áncash,Huari,Huacachi,20804,21005
+21006,Áncash,Huari,Huacchis,20806,21006
+21007,Áncash,Huari,Huachis,20805,21007
+21008,Áncash,Huari,Huantar,20807,21008
+21009,Áncash,Huari,Masin,20808,21009
+21010,Áncash,Huari,Paucas,20809,21010
+21011,Áncash,Huari,Ponto,20810,21011
+21012,Áncash,Huari,Rahuapampa,20811,21012
+21013,Áncash,Huari,Rapayan,20812,21013
+21014,Áncash,Huari,San Marcos,20813,21014
+21015,Áncash,Huari,San Pedro de Chana,20814,21015
+21016,Áncash,Huari,Uco,20815,21016
+21101,Áncash,Huarmey,Huarmey,21901,21101
+21102,Áncash,Huarmey,Cochapeti,21902,21102
+21103,Áncash,Huarmey,Culebras,21905,21103
+21104,Áncash,Huarmey,Huayan,21903,21104
+21105,Áncash,Huarmey,Malvas,21904,21105
+21201,Áncash,Huaylas,Caraz,20701,21201
+21202,Áncash,Huaylas,Huallanca,20702,21202
+21203,Áncash,Huaylas,Huata,20703,21203
+21204,Áncash,Huaylas,Huaylas,20704,21204
+21205,Áncash,Huaylas,Mato,20705,21205
+21206,Áncash,Huaylas,Pamparomas,20706,21206
+21207,Áncash,Huaylas,Pueblo Libre,20707,21207
+21208,Áncash,Huaylas,Santa Cruz,20708,21208
+21209,Áncash,Huaylas,Santo Toribio,20710,21209
+21210,Áncash,Huaylas,Yuracmarca,20709,21210
+21301,Áncash,Mariscal Luzuriaga,Piscobamba,20901,21301
+21302,Áncash,Mariscal Luzuriaga,Casca,20902,21302
+21303,Áncash,Mariscal Luzuriaga,Eleazar Guzmán Barron,20908,21303
+21304,Áncash,Mariscal Luzuriaga,Fidel Olivas Escudero,20904,21304
+21305,Áncash,Mariscal Luzuriaga,Llama,20905,21305
+21306,Áncash,Mariscal Luzuriaga,Llumpa,20906,21306
+21307,Áncash,Mariscal Luzuriaga,Lucma,20903,21307
+21308,Áncash,Mariscal Luzuriaga,Musga,20907,21308
+21401,Áncash,Ocros,Ocros,22007,21401
+21402,Áncash,Ocros,Acas,22001,21402
+21403,Áncash,Ocros,Cajamarquilla,22002,21403
+21404,Áncash,Ocros,Carhuapampa,22003,21404
+21405,Áncash,Ocros,Cochas,22004,21405
+21406,Áncash,Ocros,Congas,22005,21406
+21407,Áncash,Ocros,Llipa,22006,21407
+21408,Áncash,Ocros,San Cristóbal de Rajan,22008,21408
+21409,Áncash,Ocros,San Pedro,22009,21409
+21410,Áncash,Ocros,Santiago de Chilcas,22010,21410
+21501,Áncash,Pallasca,Cabana,21001,21501
+21502,Áncash,Pallasca,Bolognesi,21002,21502
+21503,Áncash,Pallasca,Conchucos,21003,21503
+21504,Áncash,Pallasca,Huacaschuque,21004,21504
+21505,Áncash,Pallasca,Huandoval,21005,21505
+21506,Áncash,Pallasca,Lacabamba,21006,21506
+21507,Áncash,Pallasca,Llapo,21007,21507
+21508,Áncash,Pallasca,Pallasca,21008,21508
+21509,Áncash,Pallasca,Pampas,21009,21509
+21510,Áncash,Pallasca,Santa Rosa,21010,21510
+21511,Áncash,Pallasca,Tauca,21011,21511
+21601,Áncash,Pomabamba,Pomabamba,21101,21601
+21602,Áncash,Pomabamba,Huayllan,21102,21602
+21603,Áncash,Pomabamba,Parobamba,21103,21603
+21604,Áncash,Pomabamba,Quinuabamba,21104,21604
+21701,Áncash,Recuay,Recuay,21201,21701
+21702,Áncash,Recuay,Catac,21210,21702
+21703,Áncash,Recuay,Cotaparaco,21202,21703
+21704,Áncash,Recuay,Huayllapampa,21203,21704
+21705,Áncash,Recuay,Llacllin,21209,21705
+21706,Áncash,Recuay,Marca,21204,21706
+21707,Áncash,Recuay,Pampas Chico,21205,21707
+21708,Áncash,Recuay,Pararin,21206,21708
+21709,Áncash,Recuay,Tapacocha,21207,21709
+21710,Áncash,Recuay,Ticapampa,21208,21710
+21801,Áncash,Santa,Chimbote,21301,21801
+21802,Áncash,Santa,Cáceres del Perú,21302,21802
+21803,Áncash,Santa,Coishco,21308,21803
+21804,Áncash,Santa,Macate,21303,21804
+21805,Áncash,Santa,Moro,21304,21805
+21806,Áncash,Santa,Nepeña,21305,21806
+21807,Áncash,Santa,Samanco,21306,21807
+21808,Áncash,Santa,Santa,21307,21808
+21809,Áncash,Santa,Nuevo Chimbote,21309,21809
+21901,Áncash,Sihuas,Sihuas,21401,21901
+21902,Áncash,Sihuas,Acobamba,21407,21902
+21903,Áncash,Sihuas,Alfonso Ugarte,21402,21903
+21904,Áncash,Sihuas,Cashapampa,21408,21904
+21905,Áncash,Sihuas,Chingalpo,21403,21905
+21906,Áncash,Sihuas,Huayllabamba,21404,21906
+21907,Áncash,Sihuas,Quiches,21405,21907
+21908,Áncash,Sihuas,Ragash,21409,21908
+21909,Áncash,Sihuas,San Juan,21410,21909
+21910,Áncash,Sihuas,Sicsibamba,21406,21910
+22001,Áncash,Yungay,Yungay,21501,22001
+22002,Áncash,Yungay,Cascapara,21502,22002
+22003,Áncash,Yungay,Mancos,21503,22003
+22004,Áncash,Yungay,Matacoto,21504,22004
+22005,Áncash,Yungay,Quillo,21505,22005
+22006,Áncash,Yungay,Ranrahirca,21506,22006
+22007,Áncash,Yungay,Shupluy,21507,22007
+22008,Áncash,Yungay,Yanama,21508,22008
+30101,Apurímac,Abancay,Abancay,30101,30101
+30102,Apurímac,Abancay,Chacoche,30104,30102
+30103,Apurímac,Abancay,Circa,30102,30103
+30104,Apurímac,Abancay,Curahuasi,30103,30104
+30105,Apurímac,Abancay,Huanipaca,30105,30105
+30106,Apurímac,Abancay,Lambrama,30106,30106
+30107,Apurímac,Abancay,Pichirhua,30107,30107
+30108,Apurímac,Abancay,San Pedro de Cachora,30108,30108
+30109,Apurímac,Abancay,Tamburco,30109,30109
+30201,Apurímac,Andahuaylas,Andahuaylas,30301,30201
+30202,Apurímac,Andahuaylas,Andarapa,30302,30202
+30203,Apurímac,Andahuaylas,Chiara,30303,30203
+30204,Apurímac,Andahuaylas,Huancarama,30304,30204
+30205,Apurímac,Andahuaylas,Huancaray,30305,30205
+30206,Apurímac,Andahuaylas,Huayana,30317,30206
+30207,Apurímac,Andahuaylas,Kishuara,30306,30207
+30208,Apurímac,Andahuaylas,Pacobamba,30307,30208
+30209,Apurímac,Andahuaylas,Pacucha,30313,30209
+30210,Apurímac,Andahuaylas,Pampachiri,30308,30210
+30211,Apurímac,Andahuaylas,Pomacocha,30314,30211
+30212,Apurímac,Andahuaylas,San Antonio de Cachi,30309,30212
+30213,Apurímac,Andahuaylas,San Jerónimo,30310,30213
+30214,Apurímac,Andahuaylas,San Miguel de Chaccrampa,30318,30214
+30215,Apurímac,Andahuaylas,Santa María de Chicmo,30315,30215
+30216,Apurímac,Andahuaylas,Talavera,30311,30216
+30217,Apurímac,Andahuaylas,Tumay Huaraca,30316,30217
+30218,Apurímac,Andahuaylas,Turpo,30312,30218
+30219,Apurímac,Andahuaylas,Kaquiabamba,30319,30219
+30220,Apurímac,Andahuaylas,José María Arguedas,,
+30301,Apurímac,Antabamba,Antabamba,30401,30301
+30302,Apurímac,Antabamba,El Oro,30402,30302
+30303,Apurímac,Antabamba,Huaquirca,30403,30303
+30304,Apurímac,Antabamba,Juan Espinoza Medrano,30404,30304
+30305,Apurímac,Antabamba,Oropesa,30405,30305
+30306,Apurímac,Antabamba,Pachaconas,30406,30306
+30307,Apurímac,Antabamba,Sabaino,30407,30307
+30401,Apurímac,Aymaraes,Chalhuanca,30201,30401
+30402,Apurímac,Aymaraes,Capaya,30202,30402
+30403,Apurímac,Aymaraes,Caraybamba,30203,30403
+30404,Apurímac,Aymaraes,Chapimarca,30206,30404
+30405,Apurímac,Aymaraes,Colcabamba,30204,30405
+30406,Apurímac,Aymaraes,Cotaruse,30205,30406
+30407,Apurímac,Aymaraes,Ihuayllo,30207,30407
+30408,Apurímac,Aymaraes,Justo Apu Sahuaraura,30217,30408
+30409,Apurímac,Aymaraes,Lucre,30208,30409
+30410,Apurímac,Aymaraes,Pocohuanca,30209,30410
+30411,Apurímac,Aymaraes,San Juan de Chacña,30216,30411
+30412,Apurímac,Aymaraes,Sañayca,30210,30412
+30413,Apurímac,Aymaraes,Soraya,30211,30413
+30414,Apurímac,Aymaraes,Tapairihua,30212,30414
+30415,Apurímac,Aymaraes,Tintay,30213,30415
+30416,Apurímac,Aymaraes,Toraya,30214,30416
+30417,Apurímac,Aymaraes,Yanaca,30215,30417
+30501,Apurímac,Cotabambas,Tambobamba,30501,30501
+30502,Apurímac,Cotabambas,Cotabambas,30503,30502
+30503,Apurímac,Cotabambas,Coyllurqui,30502,30503
+30504,Apurímac,Cotabambas,Haquira,30504,30504
+30505,Apurímac,Cotabambas,Mara,30505,30505
+30506,Apurímac,Cotabambas,Challhuahuacho,30506,30506
+30601,Apurímac,Chincheros,Chincheros,30701,30601
+30602,Apurímac,Chincheros,Anco_Huallo,30705,30602
+30603,Apurímac,Chincheros,Cocharcas,30704,30603
+30604,Apurímac,Chincheros,Huaccana,30706,30604
+30605,Apurímac,Chincheros,Ocobamba,30703,30605
+30606,Apurímac,Chincheros,Ongoy,30702,30606
+30607,Apurímac,Chincheros,Uranmarca,30707,30607
+30608,Apurímac,Chincheros,Ranracancha,30708,30608
+30609,Apurímac,Chincheros,Rocchacc,,
+30610,Apurímac,Chincheros,El Porvenir,,
+30611,Apurímac,Chincheros,Los Chankas,,
+30701,Apurímac,Grau,Chuquibambilla,30601,30701
+30702,Apurímac,Grau,Curpahuasi,30602,30702
+30703,Apurímac,Grau,Gamarra,30605,30703
+30704,Apurímac,Grau,Huayllati,30603,30704
+30705,Apurímac,Grau,Mamara,30604,30705
+30706,Apurímac,Grau,Micaela Bastidas,30606,30706
+30707,Apurímac,Grau,Pataypampa,30608,30707
+30708,Apurímac,Grau,Progreso,30607,30708
+30709,Apurímac,Grau,San Antonio,30609,30709
+30710,Apurímac,Grau,Santa Rosa,30613,30710
+30711,Apurímac,Grau,Turpay,30610,30711
+30712,Apurímac,Grau,Vilcabamba,30611,30712
+30713,Apurímac,Grau,Virundo,30612,30713
+30714,Apurímac,Grau,Curasco,30614,30714
+40101,Arequipa,Arequipa,Arequipa,40101,40101
+40102,Arequipa,Arequipa,Alto Selva Alegre,40128,40102
+40103,Arequipa,Arequipa,Cayma,40102,40103
+40104,Arequipa,Arequipa,Cerro Colorado,40103,40104
+40105,Arequipa,Arequipa,Characato,40104,40105
+40106,Arequipa,Arequipa,Chiguata,40105,40106
+40107,Arequipa,Arequipa,Jacobo Hunter,40127,40107
+40108,Arequipa,Arequipa,La Joya,40106,40108
+40109,Arequipa,Arequipa,Mariano Melgar,40126,40109
+40110,Arequipa,Arequipa,Miraflores,40107,40110
+40111,Arequipa,Arequipa,Mollebaya,40108,40111
+40112,Arequipa,Arequipa,Paucarpata,40109,40112
+40113,Arequipa,Arequipa,Pocsi,40110,40113
+40114,Arequipa,Arequipa,Polobaya,40111,40114
+40115,Arequipa,Arequipa,Quequeña,40112,40115
+40116,Arequipa,Arequipa,Sabandia,40113,40116
+40117,Arequipa,Arequipa,Sachaca,40114,40117
+40118,Arequipa,Arequipa,San Juan de Siguas,40115,40118
+40119,Arequipa,Arequipa,San Juan de Tarucani,40116,40119
+40120,Arequipa,Arequipa,Santa Isabel de Siguas,40117,40120
+40121,Arequipa,Arequipa,Santa Rita de Siguas,40118,40121
+40122,Arequipa,Arequipa,Socabaya,40119,40122
+40123,Arequipa,Arequipa,Tiabaya,40120,40123
+40124,Arequipa,Arequipa,Uchumayo,40121,40124
+40125,Arequipa,Arequipa,Vitor,40122,40125
+40126,Arequipa,Arequipa,Yanahuara,40123,40126
+40127,Arequipa,Arequipa,Yarabamba,40124,40127
+40128,Arequipa,Arequipa,Yura,40125,40128
+40129,Arequipa,Arequipa,José Luis Bustamante Y Rivero,40129,40129
+40201,Arequipa,Camaná,Camaná,40301,40201
+40202,Arequipa,Camaná,José María Quimper,40302,40202
+40203,Arequipa,Camaná,Mariano Nicolás Valcárcel,40303,40203
+40204,Arequipa,Camaná,Mariscal Cáceres,40304,40204
+40205,Arequipa,Camaná,Nicolás de Pierola,40305,40205
+40206,Arequipa,Camaná,Ocoña,40306,40206
+40207,Arequipa,Camaná,Quilca,40307,40207
+40208,Arequipa,Camaná,Samuel Pastor,40308,40208
+40301,Arequipa,Caravelí,Caravelí,40401,40301
+40302,Arequipa,Caravelí,Acarí,40402,40302
+40303,Arequipa,Caravelí,Atico,40403,40303
+40304,Arequipa,Caravelí,Atiquipa,40404,40304
+40305,Arequipa,Caravelí,Bella Unión,40405,40305
+40306,Arequipa,Caravelí,Cahuacho,40406,40306
+40307,Arequipa,Caravelí,Chala,40407,40307
+40308,Arequipa,Caravelí,Chaparra,40408,40308
+40309,Arequipa,Caravelí,Huanuhuanu,40409,40309
+40310,Arequipa,Caravelí,Jaqui,40410,40310
+40311,Arequipa,Caravelí,Lomas,40411,40311
+40312,Arequipa,Caravelí,Quicacha,40412,40312
+40313,Arequipa,Caravelí,Yauca,40413,40313
+40401,Arequipa,Castilla,Aplao,40501,40401
+40402,Arequipa,Castilla,Andagua,40502,40402
+40403,Arequipa,Castilla,Ayo,40503,40403
+40404,Arequipa,Castilla,Chachas,40504,40404
+40405,Arequipa,Castilla,Chilcaymarca,40505,40405
+40406,Arequipa,Castilla,Choco,40506,40406
+40407,Arequipa,Castilla,Huancarqui,40507,40407
+40408,Arequipa,Castilla,Machaguay,40508,40408
+40409,Arequipa,Castilla,Orcopampa,40509,40409
+40410,Arequipa,Castilla,Pampacolca,40510,40410
+40411,Arequipa,Castilla,Tipan,40511,40411
+40412,Arequipa,Castilla,Uñon,40513,40412
+40413,Arequipa,Castilla,Uraca,40512,40413
+40414,Arequipa,Castilla,Viraco,40514,40414
+40501,Arequipa,Caylloma,Chivay,40201,40501
+40502,Arequipa,Caylloma,Achoma,40202,40502
+40503,Arequipa,Caylloma,Cabanaconde,40203,40503
+40504,Arequipa,Caylloma,Callalli,40205,40504
+40505,Arequipa,Caylloma,Caylloma,40204,40505
+40506,Arequipa,Caylloma,Coporaque,40206,40506
+40507,Arequipa,Caylloma,Huambo,40207,40507
+40508,Arequipa,Caylloma,Huanca,40208,40508
+40509,Arequipa,Caylloma,Ichupampa,40209,40509
+40510,Arequipa,Caylloma,Lari,40210,40510
+40511,Arequipa,Caylloma,Lluta,40211,40511
+40512,Arequipa,Caylloma,Maca,40212,40512
+40513,Arequipa,Caylloma,Madrigal,40213,40513
+40514,Arequipa,Caylloma,San Antonio de Chuca,40214,40514
+40515,Arequipa,Caylloma,Sibayo,40215,40515
+40516,Arequipa,Caylloma,Tapay,40216,40516
+40517,Arequipa,Caylloma,Tisco,40217,40517
+40518,Arequipa,Caylloma,Tuti,40218,40518
+40519,Arequipa,Caylloma,Yanque,40219,40519
+40520,Arequipa,Caylloma,Majes,40220,40520
+40601,Arequipa,Condesuyos,Chuquibamba,40601,40601
+40602,Arequipa,Condesuyos,Andaray,40602,40602
+40603,Arequipa,Condesuyos,Cayarani,40603,40603
+40604,Arequipa,Condesuyos,Chichas,40604,40604
+40605,Arequipa,Condesuyos,Iray,40605,40605
+40606,Arequipa,Condesuyos,Río Grande,40608,40606
+40607,Arequipa,Condesuyos,Salamanca,40606,40607
+40608,Arequipa,Condesuyos,Yanaquihua,40607,40608
+40701,Arequipa,Islay,Mollendo,40701,40701
+40702,Arequipa,Islay,Cocachacra,40702,40702
+40703,Arequipa,Islay,Dean Valdivia,40703,40703
+40704,Arequipa,Islay,Islay,40704,40704
+40705,Arequipa,Islay,Mejia,40705,40705
+40706,Arequipa,Islay,Punta de Bombón,40706,40706
+40801,Arequipa,La Uniòn,Cotahuasi,40801,40801
+40802,Arequipa,La Uniòn,Alca,40802,40802
+40803,Arequipa,La Uniòn,Charcana,40803,40803
+40804,Arequipa,La Uniòn,Huaynacotas,40804,40804
+40805,Arequipa,La Uniòn,Pampamarca,40805,40805
+40806,Arequipa,La Uniòn,Puyca,40806,40806
+40807,Arequipa,La Uniòn,Quechualla,40807,40807
+40808,Arequipa,La Uniòn,Sayla,40808,40808
+40809,Arequipa,La Uniòn,Tauria,40809,40809
+40810,Arequipa,La Uniòn,Tomepampa,40810,40810
+40811,Arequipa,La Uniòn,Toro,40811,40811
+50101,Ayacucho,Huamanga,Ayacucho,50101,50101
+50102,Ayacucho,Huamanga,Acocro,50111,50102
+50103,Ayacucho,Huamanga,Acos Vinchos,50102,50103
+50104,Ayacucho,Huamanga,Carmen Alto,50103,50104
+50105,Ayacucho,Huamanga,Chiara,50104,50105
+50106,Ayacucho,Huamanga,Ocros,50113,50106
+50107,Ayacucho,Huamanga,Pacaycasa,50114,50107
+50108,Ayacucho,Huamanga,Quinua,50105,50108
+50109,Ayacucho,Huamanga,San José de Ticllas,50106,50109
+50110,Ayacucho,Huamanga,San Juan Bautista,50107,50110
+50111,Ayacucho,Huamanga,Santiago de Pischa,50108,50111
+50112,Ayacucho,Huamanga,Socos,50112,50112
+50113,Ayacucho,Huamanga,Tambillo,50110,50113
+50114,Ayacucho,Huamanga,Vinchos,50109,50114
+50115,Ayacucho,Huamanga,Jesús Nazareno,50115,50115
+50116,Ayacucho,Huamanga,Andrés Avelino Cáceres Dorregaray,,
+50201,Ayacucho,Cangallo,Cangallo,50201,50201
+50202,Ayacucho,Cangallo,Chuschi,50204,50202
+50203,Ayacucho,Cangallo,Los Morochucos,50206,50203
+50204,Ayacucho,Cangallo,María Parado de Bellido,50211,50204
+50205,Ayacucho,Cangallo,Paras,50207,50205
+50206,Ayacucho,Cangallo,Totos,50208,50206
+50301,Ayacucho,Huanca Sancos,Sancos,50801,50301
+50302,Ayacucho,Huanca Sancos,Carapo,50804,50302
+50303,Ayacucho,Huanca Sancos,Sacsamarca,50802,50303
+50304,Ayacucho,Huanca Sancos,Santiago de Lucanamarca,50803,50304
+50401,Ayacucho,Huanta,Huanta,50301,50401
+50402,Ayacucho,Huanta,Ayahuanco,50302,50402
+50403,Ayacucho,Huanta,Huamanguilla,50303,50403
+50404,Ayacucho,Huanta,Iguain,50304,50404
+50405,Ayacucho,Huanta,Luricocha,50305,50405
+50406,Ayacucho,Huanta,Santillana,50307,50406
+50407,Ayacucho,Huanta,Sivia,50308,50407
+50408,Ayacucho,Huanta,Llochegua,50309,50408
+50409,Ayacucho,Huanta,Canayre,,
+50410,Ayacucho,Huanta,Uchuraccay,,
+50411,Ayacucho,Huanta,Pucacolpa,,
+50412,Ayacucho,Huanta,Chaca,,
+50501,Ayacucho,La Mar,San Miguel,50401,50501
+50502,Ayacucho,La Mar,Anco,50402,50502
+50503,Ayacucho,La Mar,Ayna,50403,50503
+50504,Ayacucho,La Mar,Chilcas,50404,50504
+50505,Ayacucho,La Mar,Chungui,50405,50505
+50506,Ayacucho,La Mar,Luis Carranza,50407,50506
+50507,Ayacucho,La Mar,Santa Rosa,50408,50507
+50508,Ayacucho,La Mar,Tambo,50406,50508
+50509,Ayacucho,La Mar,Samugari,50409,
+50510,Ayacucho,La Mar,Anchihuay,,
+50511,Ayacucho,La Mar,Oronccoy,,
+50601,Ayacucho,Lucanas,Puquio,50501,50601
+50602,Ayacucho,Lucanas,Aucara,50502,50602
+50603,Ayacucho,Lucanas,Cabana,50503,50603
+50604,Ayacucho,Lucanas,Carmen Salcedo,50504,50604
+50605,Ayacucho,Lucanas,Chaviña,50506,50605
+50606,Ayacucho,Lucanas,Chipao,50508,50606
+50607,Ayacucho,Lucanas,Huac-Huas,50510,50607
+50608,Ayacucho,Lucanas,Laramate,50511,50608
+50609,Ayacucho,Lucanas,Leoncio Prado,50512,50609
+50610,Ayacucho,Lucanas,Llauta,50514,50610
+50611,Ayacucho,Lucanas,Lucanas,50513,50611
+50612,Ayacucho,Lucanas,Ocaña,50516,50612
+50613,Ayacucho,Lucanas,Otoca,50517,50613
+50614,Ayacucho,Lucanas,Saisa,50529,50614
+50615,Ayacucho,Lucanas,San Cristóbal,50532,50615
+50616,Ayacucho,Lucanas,San Juan,,50616
+50617,Ayacucho,Lucanas,San Pedro,50522,50617
+50618,Ayacucho,Lucanas,San Pedro de Palco,50531,50618
+50619,Ayacucho,Lucanas,Sancos,50520,50619
+50620,Ayacucho,Lucanas,Santa Ana de Huaycahuacho,50524,50620
+50621,Ayacucho,Lucanas,Santa Lucia,50525,50621
+50701,Ayacucho,Parinacochas,Coracora,50601,50701
+50702,Ayacucho,Parinacochas,Chumpi,50605,50702
+50703,Ayacucho,Parinacochas,Coronel Castañeda,50604,50703
+50704,Ayacucho,Parinacochas,Pacapausa,50608,50704
+50705,Ayacucho,Parinacochas,Pullo,50611,50705
+50706,Ayacucho,Parinacochas,Puyusca,50612,50706
+50707,Ayacucho,Parinacochas,San Francisco de Ravacayco,50615,50707
+50708,Ayacucho,Parinacochas,Upahuacho,50616,50708
+50801,Ayacucho,Pàucar del Sara Sara,Pausa,51001,50801
+50802,Ayacucho,Pàucar del Sara Sara,Colta,51002,50802
+50803,Ayacucho,Pàucar del Sara Sara,Corculla,51003,50803
+50804,Ayacucho,Pàucar del Sara Sara,Lampa,51004,50804
+50805,Ayacucho,Pàucar del Sara Sara,Marcabamba,51005,50805
+50806,Ayacucho,Pàucar del Sara Sara,Oyolo,51006,50806
+50807,Ayacucho,Pàucar del Sara Sara,Pararca,51007,50807
+50808,Ayacucho,Pàucar del Sara Sara,San Javier de Alpabamba,51008,50808
+50809,Ayacucho,Pàucar del Sara Sara,San José de Ushua,51009,50809
+50810,Ayacucho,Pàucar del Sara Sara,Sara Sara,51010,50810
+50901,Ayacucho,Sucre,Querobamba,51101,50901
+50902,Ayacucho,Sucre,Belén,51102,50902
+50903,Ayacucho,Sucre,Chalcos,51103,50903
+50904,Ayacucho,Sucre,Chilcayoc,51110,50904
+50905,Ayacucho,Sucre,Huacaña,51109,50905
+50906,Ayacucho,Sucre,Morcolla,51111,50906
+50907,Ayacucho,Sucre,Paico,51105,50907
+50908,Ayacucho,Sucre,San Pedro de Larcay,51107,50908
+50909,Ayacucho,Sucre,San Salvador de Quije,51104,50909
+50910,Ayacucho,Sucre,Santiago de Paucaray,51106,50910
+50911,Ayacucho,Sucre,Soras,51108,50911
+51001,Ayacucho,Víctor Fajardo,Huancapi,50701,51001
+51002,Ayacucho,Víctor Fajardo,Alcamenca,50702,51002
+51003,Ayacucho,Víctor Fajardo,Apongo,50703,51003
+51004,Ayacucho,Víctor Fajardo,Asquipata,50715,51004
+51005,Ayacucho,Víctor Fajardo,Canaria,50704,51005
+51006,Ayacucho,Víctor Fajardo,Cayara,50706,51006
+51007,Ayacucho,Víctor Fajardo,Colca,50707,51007
+51008,Ayacucho,Víctor Fajardo,Huamanquiquia,50709,51008
+51009,Ayacucho,Víctor Fajardo,Huancaraylla,50710,51009
+51010,Ayacucho,Víctor Fajardo,Hualla,50708,51010
+51011,Ayacucho,Víctor Fajardo,Sarhua,50713,51011
+51012,Ayacucho,Víctor Fajardo,Vilcanchos,50714,51012
+51101,Ayacucho,Vilcas Huamán,Vilcas Huaman,50901,51101
+51102,Ayacucho,Vilcas Huamán,Accomarca,50903,51102
+51103,Ayacucho,Vilcas Huamán,Carhuanca,50904,51103
+51104,Ayacucho,Vilcas Huamán,Concepción,50905,51104
+51105,Ayacucho,Vilcas Huamán,Huambalpa,50906,51105
+51106,Ayacucho,Vilcas Huamán,Independencia,50908,51106
+51107,Ayacucho,Vilcas Huamán,Saurama,50907,51107
+51108,Ayacucho,Vilcas Huamán,Vischongo,50902,51108
+60101,Cajamarca,Cajamarca,Cajamarca,60101,60101
+60102,Cajamarca,Cajamarca,Asunción,60102,60102
+60103,Cajamarca,Cajamarca,Chetilla,60104,60103
+60104,Cajamarca,Cajamarca,Cospan,60103,60104
+60105,Cajamarca,Cajamarca,Encañada,60105,60105
+60106,Cajamarca,Cajamarca,Jesús,60106,60106
+60107,Cajamarca,Cajamarca,Llacanora,60108,60107
+60108,Cajamarca,Cajamarca,Los Baños del Inca,60107,60108
+60109,Cajamarca,Cajamarca,Magdalena,60109,60109
+60110,Cajamarca,Cajamarca,Matara,60110,60110
+60111,Cajamarca,Cajamarca,Namora,60111,60111
+60112,Cajamarca,Cajamarca,San Juan,60112,60112
+60201,Cajamarca,Cajabamba,Cajabamba,60201,60201
+60202,Cajamarca,Cajabamba,Cachachi,60202,60202
+60203,Cajamarca,Cajabamba,Condebamba,60203,60203
+60204,Cajamarca,Cajabamba,Sitacocha,60205,60204
+60301,Cajamarca,Celendín,Celendín,60301,60301
+60302,Cajamarca,Celendín,Chumuch,60303,60302
+60303,Cajamarca,Celendín,Cortegana,60302,60303
+60304,Cajamarca,Celendín,Huasmin,60304,60304
+60305,Cajamarca,Celendín,Jorge Chávez,60305,60305
+60306,Cajamarca,Celendín,José Gálvez,60306,60306
+60307,Cajamarca,Celendín,Miguel Iglesias,60307,60307
+60308,Cajamarca,Celendín,Oxamarca,60308,60308
+60309,Cajamarca,Celendín,Sorochuco,60309,60309
+60310,Cajamarca,Celendín,Sucre,60310,60310
+60311,Cajamarca,Celendín,Utco,60311,60311
+60312,Cajamarca,Celendín,La Libertad de Pallan,60312,60312
+60401,Cajamarca,Chota,Chota,60601,60401
+60402,Cajamarca,Chota,Anguia,60602,60402
+60403,Cajamarca,Chota,Chadin,60605,60403
+60404,Cajamarca,Chota,Chiguirip,60606,60404
+60405,Cajamarca,Chota,Chimban,60607,60405
+60406,Cajamarca,Chota,Choropampa,60618,60406
+60407,Cajamarca,Chota,Cochabamba,60603,60407
+60408,Cajamarca,Chota,Conchan,60604,60408
+60409,Cajamarca,Chota,Huambos,60608,60409
+60410,Cajamarca,Chota,Lajas,60609,60410
+60411,Cajamarca,Chota,Llama,60610,60411
+60412,Cajamarca,Chota,Miracosta,60611,60412
+60413,Cajamarca,Chota,Paccha,60612,60413
+60414,Cajamarca,Chota,Pion,60613,60414
+60415,Cajamarca,Chota,Querocoto,60614,60415
+60416,Cajamarca,Chota,San Juan de Licupis,60617,60416
+60417,Cajamarca,Chota,Tacabamba,60615,60417
+60418,Cajamarca,Chota,Tocmoche,60616,60418
+60419,Cajamarca,Chota,Chalamarca,60619,60419
+60501,Cajamarca,Contumazá,Contumaza,60401,60501
+60502,Cajamarca,Contumazá,Chilete,60403,60502
+60503,Cajamarca,Contumazá,Cupisnique,60406,60503
+60504,Cajamarca,Contumazá,Guzmango,60404,60504
+60505,Cajamarca,Contumazá,San Benito,60405,60505
+60506,Cajamarca,Contumazá,Santa Cruz de Toledo,60409,60506
+60507,Cajamarca,Contumazá,Tantarica,60407,60507
+60508,Cajamarca,Contumazá,Yonan,60408,60508
+60601,Cajamarca,Cutervo,Cutervo,60501,60601
+60602,Cajamarca,Cutervo,Callayuc,60502,60602
+60603,Cajamarca,Cutervo,Choros,60504,60603
+60604,Cajamarca,Cutervo,Cujillo,60503,60604
+60605,Cajamarca,Cutervo,La Ramada,60505,60605
+60606,Cajamarca,Cutervo,Pimpingos,60506,60606
+60607,Cajamarca,Cutervo,Querocotillo,60507,60607
+60608,Cajamarca,Cutervo,San Andrés de Cutervo,60508,60608
+60609,Cajamarca,Cutervo,San Juan de Cutervo,60509,60609
+60610,Cajamarca,Cutervo,San Luis de Lucma,60510,60610
+60611,Cajamarca,Cutervo,Santa Cruz,60511,60611
+60612,Cajamarca,Cutervo,Santo Domingo de la Capilla,60512,60612
+60613,Cajamarca,Cutervo,Santo Tomas,60513,60613
+60614,Cajamarca,Cutervo,Socota,60514,60614
+60615,Cajamarca,Cutervo,Toribio Casanova,60515,60615
+60701,Cajamarca,Hualgayoc,Bambamarca,60701,60701
+60702,Cajamarca,Hualgayoc,Chugur,60702,60702
+60703,Cajamarca,Hualgayoc,Hualgayoc,60703,60703
+60801,Cajamarca,Jaén,Jaén,60801,60801
+60802,Cajamarca,Jaén,Bellavista,60802,60802
+60803,Cajamarca,Jaén,Chontali,60804,60803
+60804,Cajamarca,Jaén,Colasay,60803,60804
+60805,Cajamarca,Jaén,Huabal,60812,60805
+60806,Cajamarca,Jaén,Las Pirias,60811,60806
+60807,Cajamarca,Jaén,Pomahuaca,60805,60807
+60808,Cajamarca,Jaén,Pucara,60806,60808
+60809,Cajamarca,Jaén,Sallique,60807,60809
+60810,Cajamarca,Jaén,San Felipe,60808,60810
+60811,Cajamarca,Jaén,San José del Alto,60809,60811
+60812,Cajamarca,Jaén,Santa Rosa,60810,60812
+60901,Cajamarca,San Ignacio,San Ignacio,61101,60901
+60902,Cajamarca,San Ignacio,Chirinos,61102,60902
+60903,Cajamarca,San Ignacio,Huarango,61103,60903
+60904,Cajamarca,San Ignacio,La Coipa,61105,60904
+60905,Cajamarca,San Ignacio,Namballe,61104,60905
+60906,Cajamarca,San Ignacio,San José de Lourdes,61106,60906
+60907,Cajamarca,San Ignacio,Tabaconas,61107,60907
+61001,Cajamarca,San Marcos,Pedro Gálvez,61201,61001
+61002,Cajamarca,San Marcos,Chancay,61207,61002
+61003,Cajamarca,San Marcos,Eduardo Villanueva,61205,61003
+61004,Cajamarca,San Marcos,Gregorio Pita,61203,61004
+61005,Cajamarca,San Marcos,Ichocan,61202,61005
+61006,Cajamarca,San Marcos,José Manuel Quiroz,61204,61006
+61007,Cajamarca,San Marcos,José Sabogal,61206,61007
+61101,Cajamarca,San Miguel,San Miguel,61001,61101
+61102,Cajamarca,San Miguel,Bolívar,61013,61102
+61103,Cajamarca,San Miguel,Calquis,61002,61103
+61104,Cajamarca,San Miguel,Catilluc,61012,61104
+61105,Cajamarca,San Miguel,El Prado,61009,61105
+61106,Cajamarca,San Miguel,La Florida,61003,61106
+61107,Cajamarca,San Miguel,Llapa,61004,61107
+61108,Cajamarca,San Miguel,Nanchoc,61005,61108
+61109,Cajamarca,San Miguel,Niepos,61006,61109
+61110,Cajamarca,San Miguel,San Gregorio,61007,61110
+61111,Cajamarca,San Miguel,San Silvestre de Cochan,61008,61111
+61112,Cajamarca,San Miguel,Tongod,61011,61112
+61113,Cajamarca,San Miguel,Unión Agua Blanca,61010,61113
+61201,Cajamarca,San Pablo,San Pablo,61301,61201
+61202,Cajamarca,San Pablo,San Bernardino,61302,61202
+61203,Cajamarca,San Pablo,San Luis,61303,61203
+61204,Cajamarca,San Pablo,Tumbaden,61304,61204
+61301,Cajamarca,Santa Cruz,Santa Cruz,60901,61301
+61302,Cajamarca,Santa Cruz,Andabamba,60910,61302
+61303,Cajamarca,Santa Cruz,Catache,60902,61303
+61304,Cajamarca,Santa Cruz,Chancaybaños,60903,61304
+61305,Cajamarca,Santa Cruz,La Esperanza,60904,61305
+61306,Cajamarca,Santa Cruz,Ninabamba,60905,61306
+61307,Cajamarca,Santa Cruz,Pulan,60906,61307
+61308,Cajamarca,Santa Cruz,Saucepampa,60911,61308
+61309,Cajamarca,Santa Cruz,Sexi,60907,61309
+61310,Cajamarca,Santa Cruz,Uticyacu,60908,61310
+61311,Cajamarca,Santa Cruz,Yauyucan,60909,61311
+70101,Callao,Prov. Const. del Callao,Callao,240101,70101
+70102,Callao,Prov. Const. del Callao,Bellavista,240102,70102
+70103,Callao,Prov. Const. del Callao,Carmen de la Legua Reynoso,240104,70103
+70104,Callao,Prov. Const. del Callao,La Perla,240105,70104
+70105,Callao,Prov. Const. del Callao,La Punta,240103,70105
+70106,Callao,Prov. Const. del Callao,Ventanilla,240106,70106
+70107,Callao,Prov. Const. del Callao,Mi Perú,,
+80101,Cusco,Cusco,Cusco,70101,80101
+80102,Cusco,Cusco,Ccorca,70102,80102
+80103,Cusco,Cusco,Poroy,70103,80103
+80104,Cusco,Cusco,San Jerónimo,70104,80104
+80105,Cusco,Cusco,San Sebastian,70105,80105
+80106,Cusco,Cusco,Santiago,70106,80106
+80107,Cusco,Cusco,Saylla,70107,80107
+80108,Cusco,Cusco,Wanchaq,70108,80108
+80201,Cusco,Acomayo,Acomayo,70201,80201
+80202,Cusco,Acomayo,Acopia,70202,80202
+80203,Cusco,Acomayo,Acos,70203,80203
+80204,Cusco,Acomayo,Mosoc Llacta,70207,80204
+80205,Cusco,Acomayo,Pomacanchi,70204,80205
+80206,Cusco,Acomayo,Rondocan,70205,80206
+80207,Cusco,Acomayo,Sangarara,70206,80207
+80301,Cusco,Anta,Anta,70301,80301
+80302,Cusco,Anta,Ancahuasi,70309,80302
+80303,Cusco,Anta,Cachimayo,70308,80303
+80304,Cusco,Anta,Chinchaypujio,70302,80304
+80305,Cusco,Anta,Huarocondo,70303,80305
+80306,Cusco,Anta,Limatambo,70304,80306
+80307,Cusco,Anta,Mollepata,70305,80307
+80308,Cusco,Anta,Pucyura,70306,80308
+80309,Cusco,Anta,Zurite,70307,80309
+80401,Cusco,Calca,Calca,70401,80401
+80402,Cusco,Calca,Coya,70402,80402
+80403,Cusco,Calca,Lamay,70403,80403
+80404,Cusco,Calca,Lares,70404,80404
+80405,Cusco,Calca,Pisac,70405,80405
+80406,Cusco,Calca,San Salvador,70406,80406
+80407,Cusco,Calca,Taray,70407,80407
+80408,Cusco,Calca,Yanatile,70408,80408
+80501,Cusco,Canas,Yanaoca,70501,80501
+80502,Cusco,Canas,Checca,70502,80502
+80503,Cusco,Canas,Kunturkanki,70503,80503
+80504,Cusco,Canas,Langui,70504,80504
+80505,Cusco,Canas,Layo,70505,80505
+80506,Cusco,Canas,Pampamarca,70506,80506
+80507,Cusco,Canas,Quehue,70507,80507
+80508,Cusco,Canas,Tupac Amaru,70508,80508
+80601,Cusco,Canchis,Sicuani,70601,80601
+80602,Cusco,Canchis,Checacupe,70603,80602
+80603,Cusco,Canchis,Combapata,70602,80603
+80604,Cusco,Canchis,Marangani,70604,80604
+80605,Cusco,Canchis,Pitumarca,70605,80605
+80606,Cusco,Canchis,San Pablo,70606,80606
+80607,Cusco,Canchis,San Pedro,70607,80607
+80608,Cusco,Canchis,Tinta,70608,80608
+80701,Cusco,Chumbivilcas,Santo Tomas,70701,80701
+80702,Cusco,Chumbivilcas,Capacmarca,70702,80702
+80703,Cusco,Chumbivilcas,Chamaca,70704,80703
+80704,Cusco,Chumbivilcas,Colquemarca,70703,80704
+80705,Cusco,Chumbivilcas,Livitaca,70705,80705
+80706,Cusco,Chumbivilcas,Llusco,70706,80706
+80707,Cusco,Chumbivilcas,Quiñota,70707,80707
+80708,Cusco,Chumbivilcas,Velille,70708,80708
+80801,Cusco,Espinar,Espinar,70801,80801
+80802,Cusco,Espinar,Condoroma,70802,80802
+80803,Cusco,Espinar,Coporaque,70803,80803
+80804,Cusco,Espinar,Ocoruro,70804,80804
+80805,Cusco,Espinar,Pallpata,70805,80805
+80806,Cusco,Espinar,Pichigua,70806,80806
+80807,Cusco,Espinar,Suyckutambo,70807,80807
+80808,Cusco,Espinar,Alto Pichigua,70808,80808
+80901,Cusco,La Convención,Santa Ana,70901,80901
+80902,Cusco,La Convención,Echarate,70902,80902
+80903,Cusco,La Convención,Huayopata,70903,80903
+80904,Cusco,La Convención,Maranura,70904,80904
+80905,Cusco,La Convención,Ocobamba,70905,80905
+80906,Cusco,La Convención,Quellouno,70908,80906
+80907,Cusco,La Convención,Kimbiri,70909,80907
+80908,Cusco,La Convención,Santa Teresa,70906,80908
+80909,Cusco,La Convención,Vilcabamba,70907,80909
+80910,Cusco,La Convención,Pichari,70910,80910
+80911,Cusco,La Convención,Inkawasi,,
+80912,Cusco,La Convención,Villa Virgen,,
+80913,Cusco,La Convención,Villa Kintiarina,,
+80914,Cusco,La Convención,Megantoni,,
+81001,Cusco,Paruro,Paruro,71001,81001
+81002,Cusco,Paruro,Accha,71002,81002
+81003,Cusco,Paruro,Ccapi,71003,81003
+81004,Cusco,Paruro,Colcha,71004,81004
+81005,Cusco,Paruro,Huanoquite,71005,81005
+81006,Cusco,Paruro,Omachaç,71006,81006
+81007,Cusco,Paruro,Paccaritambo,71008,81007
+81008,Cusco,Paruro,Pillpinto,71009,81008
+81009,Cusco,Paruro,Yaurisque,71007,81009
+81101,Cusco,Paucartambo,Paucartambo,71101,81101
+81102,Cusco,Paucartambo,Caicay,71102,81102
+81103,Cusco,Paucartambo,Challabamba,71104,81103
+81104,Cusco,Paucartambo,Colquepata,71103,81104
+81105,Cusco,Paucartambo,Huancarani,71106,81105
+81106,Cusco,Paucartambo,Kosñipata,71105,81106
+81201,Cusco,Quispicanchi,Urcos,71201,81201
+81202,Cusco,Quispicanchi,Andahuaylillas,71202,81202
+81203,Cusco,Quispicanchi,Camanti,71203,81203
+81204,Cusco,Quispicanchi,Ccarhuayo,71204,81204
+81205,Cusco,Quispicanchi,Ccatca,71205,81205
+81206,Cusco,Quispicanchi,Cusipata,71206,81206
+81207,Cusco,Quispicanchi,Huaro,71207,81207
+81208,Cusco,Quispicanchi,Lucre,71208,81208
+81209,Cusco,Quispicanchi,Marcapata,71209,81209
+81210,Cusco,Quispicanchi,Ocongate,71210,81210
+81211,Cusco,Quispicanchi,Oropesa,71211,81211
+81212,Cusco,Quispicanchi,Quiquijana,71212,81212
+81301,Cusco,Urubamba,Urubamba,71301,81301
+81302,Cusco,Urubamba,Chinchero,71302,81302
+81303,Cusco,Urubamba,Huayllabamba,71303,81303
+81304,Cusco,Urubamba,Machupicchu,71304,81304
+81305,Cusco,Urubamba,Maras,71305,81305
+81306,Cusco,Urubamba,Ollantaytambo,71306,81306
+81307,Cusco,Urubamba,Yucay,71307,81307
+90101,Huancavelica,Huancavelica,Huancavelica,80101,90101
+90102,Huancavelica,Huancavelica,Acobambilla,80102,90102
+90103,Huancavelica,Huancavelica,Acoria,80103,90103
+90104,Huancavelica,Huancavelica,Conayca,80104,90104
+90105,Huancavelica,Huancavelica,Cuenca,80105,90105
+90106,Huancavelica,Huancavelica,Huachocolpa,80106,90106
+90107,Huancavelica,Huancavelica,Huayllahuara,80108,90107
+90108,Huancavelica,Huancavelica,Izcuchaca,80109,90108
+90109,Huancavelica,Huancavelica,Laria,80110,90109
+90110,Huancavelica,Huancavelica,Manta,80111,90110
+90111,Huancavelica,Huancavelica,Mariscal Cáceres,80112,90111
+90112,Huancavelica,Huancavelica,Moya,80113,90112
+90113,Huancavelica,Huancavelica,Nuevo Occoro,80114,90113
+90114,Huancavelica,Huancavelica,Palca,80115,90114
+90115,Huancavelica,Huancavelica,Pilchaca,80116,90115
+90116,Huancavelica,Huancavelica,Vilca,80117,90116
+90117,Huancavelica,Huancavelica,Yauli,80118,90117
+90118,Huancavelica,Huancavelica,Ascensión,80119,90118
+90119,Huancavelica,Huancavelica,Huando,80120,90119
+90201,Huancavelica,Acobamba,Acobamba,80201,90201
+90202,Huancavelica,Acobamba,Andabamba,80203,90202
+90203,Huancavelica,Acobamba,Anta,80202,90203
+90204,Huancavelica,Acobamba,Caja,80204,90204
+90205,Huancavelica,Acobamba,Marcas,80205,90205
+90206,Huancavelica,Acobamba,Paucara,80206,90206
+90207,Huancavelica,Acobamba,Pomacocha,80207,90207
+90208,Huancavelica,Acobamba,Rosario,80208,90208
+90301,Huancavelica,Angaraes,Lircay,80301,90301
+90302,Huancavelica,Angaraes,Anchonga,80302,90302
+90303,Huancavelica,Angaraes,Callanmarca,80303,90303
+90304,Huancavelica,Angaraes,Ccochaccasa,80312,90304
+90305,Huancavelica,Angaraes,Chincho,80305,90305
+90306,Huancavelica,Angaraes,Congalla,80304,90306
+90307,Huancavelica,Angaraes,Huanca-Huanca,80307,90307
+90308,Huancavelica,Angaraes,Huayllay Grande,80306,90308
+90309,Huancavelica,Angaraes,Julcamarca,80308,90309
+90310,Huancavelica,Angaraes,San Antonio de Antaparco,80309,90310
+90311,Huancavelica,Angaraes,Santo Tomas de Pata,80310,90311
+90312,Huancavelica,Angaraes,Secclla,80311,90312
+90401,Huancavelica,Castrovirreyna,Castrovirreyna,80401,90401
+90402,Huancavelica,Castrovirreyna,Arma,80402,90402
+90403,Huancavelica,Castrovirreyna,Aurahua,80403,90403
+90404,Huancavelica,Castrovirreyna,Capillas,80405,90404
+90405,Huancavelica,Castrovirreyna,Chupamarca,80408,90405
+90406,Huancavelica,Castrovirreyna,Cocas,80406,90406
+90407,Huancavelica,Castrovirreyna,Huachos,80409,90407
+90408,Huancavelica,Castrovirreyna,Huamatambo,80410,90408
+90409,Huancavelica,Castrovirreyna,Mollepampa,80414,90409
+90410,Huancavelica,Castrovirreyna,San Juan,80422,90410
+90411,Huancavelica,Castrovirreyna,Santa Ana,80429,90411
+90412,Huancavelica,Castrovirreyna,Tantara,80427,90412
+90413,Huancavelica,Castrovirreyna,Ticrapo,80428,90413
+90501,Huancavelica,Churcampa,Churcampa,80701,90501
+90502,Huancavelica,Churcampa,Anco,80702,90502
+90503,Huancavelica,Churcampa,Chinchihuasi,80703,90503
+90504,Huancavelica,Churcampa,El Carmen,80704,90504
+90505,Huancavelica,Churcampa,La Merced,80705,90505
+90506,Huancavelica,Churcampa,Locroja,80706,90506
+90507,Huancavelica,Churcampa,Paucarbamba,80707,90507
+90508,Huancavelica,Churcampa,San Miguel de Mayocc,80708,90508
+90509,Huancavelica,Churcampa,San Pedro de Coris,80709,90509
+90510,Huancavelica,Churcampa,Pachamarca,80710,90510
+90511,Huancavelica,Churcampa,Cosme,80711,
+90601,Huancavelica,Huaytará,Huaytara,80604,90601
+90602,Huancavelica,Huaytará,Ayavi,80601,90602
+90603,Huancavelica,Huaytará,Córdova,80602,90603
+90604,Huancavelica,Huaytará,Huayacundo Arma,80603,90604
+90605,Huancavelica,Huaytará,Laramarca,80605,90605
+90606,Huancavelica,Huaytará,Ocoyo,80606,90606
+90607,Huancavelica,Huaytará,Pilpichaca,80607,90607
+90608,Huancavelica,Huaytará,Querco,80608,90608
+90609,Huancavelica,Huaytará,Quito-Arma,80609,90609
+90610,Huancavelica,Huaytará,San Antonio de Cusicancha,80610,90610
+90611,Huancavelica,Huaytará,San Francisco de Sangayaico,80611,90611
+90612,Huancavelica,Huaytará,San Isidro,80612,90612
+90613,Huancavelica,Huaytará,Santiago de Chocorvos,80613,90613
+90614,Huancavelica,Huaytará,Santiago de Quirahuara,80614,90614
+90615,Huancavelica,Huaytará,Santo Domingo de Capillas,80615,90615
+90616,Huancavelica,Huaytará,Tambo,80616,90616
+90701,Huancavelica,Tayacaja,Pampas,80501,90701
+90702,Huancavelica,Tayacaja,Acostambo,80502,90702
+90703,Huancavelica,Tayacaja,Acraquia,80503,90703
+90704,Huancavelica,Tayacaja,Ahuaycha,80504,90704
+90705,Huancavelica,Tayacaja,Colcabamba,80506,90705
+90706,Huancavelica,Tayacaja,Daniel Hernández,80509,90706
+90707,Huancavelica,Tayacaja,Huachocolpa,80511,90707
+90709,Huancavelica,Tayacaja,Huaribamba,80515,90710
+90710,Huancavelica,Tayacaja,Ñahuimpuquio,80517,90711
+90711,Huancavelica,Tayacaja,Pazos,80518,90713
+90713,Huancavelica,Tayacaja,Quishuar,80526,90715
+90714,Huancavelica,Tayacaja,Salcabamba,80520,90716
+90715,Huancavelica,Tayacaja,Salcahuasi,80523,90717
+90716,Huancavelica,Tayacaja,San Marcos de Rocchac,80525,90718
+90717,Huancavelica,Tayacaja,Surcubamba,,
+90718,Huancavelica,Tayacaja,Tintay Puncu,,
+90719,Huancavelica,Tayacaja,Quichuas,,
+90720,Huancavelica,Tayacaja,Andaymarca,,
+90721,Huancavelica,Tayacaja,Roble,,
+90722,Huancavelica,Tayacaja,Pichos,,
+90723,Huancavelica,Tayacaja,Santiago de Tucuma,,
+100101,Huánuco,Huánuco,Huanuco,90101,100101
+100102,Huánuco,Huánuco,Amarilis,90110,100102
+100103,Huánuco,Huánuco,Chinchao,90102,100103
+100104,Huánuco,Huánuco,Churubamba,90103,100104
+100105,Huánuco,Huánuco,Margos,90104,100105
+100106,Huánuco,Huánuco,Quisqui (Kichki),90105,100106
+100107,Huánuco,Huánuco,San Francisco de Cayran,90106,100107
+100108,Huánuco,Huánuco,San Pedro de Chaulan,90107,100108
+100109,Huánuco,Huánuco,Santa María del Valle,90108,100109
+100110,Huánuco,Huánuco,Yarumayo,90109,100110
+100111,Huánuco,Huánuco,Pillco Marca,90111,100111
+100112,Huánuco,Huánuco,Yacus,90112,
+100113,Huánuco,Huánuco,San Pablo de Pillao,,
+100201,Huánuco,Ambo,Ambo,90201,100201
+100202,Huánuco,Ambo,Cayna,90202,100202
+100203,Huánuco,Ambo,Colpas,90203,100203
+100204,Huánuco,Ambo,Conchamarca,90204,100204
+100205,Huánuco,Ambo,Huacar,90205,100205
+100206,Huánuco,Ambo,San Francisco,90206,100206
+100207,Huánuco,Ambo,San Rafael,90207,100207
+100208,Huánuco,Ambo,Tomay Kichwa,90208,100208
+100301,Huánuco,Dos de Mayo,La Unión,90301,100301
+100307,Huánuco,Dos de Mayo,Chuquis,90307,100307
+100311,Huánuco,Dos de Mayo,Marías,90312,100311
+100313,Huánuco,Dos de Mayo,Pachas,90314,100313
+100316,Huánuco,Dos de Mayo,Quivilla,90316,100316
+100317,Huánuco,Dos de Mayo,Ripan,90317,100317
+100321,Huánuco,Dos de Mayo,Shunqui,90321,100321
+100322,Huánuco,Dos de Mayo,Sillapata,90322,100322
+100323,Huánuco,Dos de Mayo,Yanas,90323,100323
+100401,Huánuco,Huacaybamba,Huacaybamba,90901,100401
+100402,Huánuco,Huacaybamba,Canchabamba,90903,100402
+100403,Huánuco,Huacaybamba,Cochabamba,90904,100403
+100404,Huánuco,Huacaybamba,Pinra,90902,100404
+100501,Huánuco,Huamalíes,Llata,90401,100501
+100502,Huánuco,Huamalíes,Arancay,90402,100502
+100503,Huánuco,Huamalíes,Chavín de Pariarca,90403,100503
+100504,Huánuco,Huamalíes,Jacas Grande,90404,100504
+100505,Huánuco,Huamalíes,Jircan,90405,100505
+100506,Huánuco,Huamalíes,Miraflores,90406,100506
+100507,Huánuco,Huamalíes,Monzón,90407,100507
+100508,Huánuco,Huamalíes,Punchao,90408,100508
+100509,Huánuco,Huamalíes,Puños,90409,100509
+100510,Huánuco,Huamalíes,Singa,90410,100510
+100511,Huánuco,Huamalíes,Tantamayo,90411,100511
+100601,Huánuco,Leoncio Prado,Rupa-Rupa,90601,100601
+100602,Huánuco,Leoncio Prado,Daniel Alomía Robles,90602,100602
+100603,Huánuco,Leoncio Prado,Hermílio Valdizan,90603,100603
+100604,Huánuco,Leoncio Prado,José Crespo y Castillo,90606,100604
+100605,Huánuco,Leoncio Prado,Luyando,90604,100605
+100606,Huánuco,Leoncio Prado,Mariano Damaso Beraun,90605,100606
+100607,Huánuco,Leoncio Prado,Pucayacu,,
+100608,Huánuco,Leoncio Prado,Castillo Grande,,
+100609,Huánuco,Leoncio Prado,Pueblo Nuevo,,
+100610,Huánuco,Leoncio Prado,Santo Domingo de Anda,,
+100701,Huánuco,Marañón,Huacrachuco,90501,100701
+100702,Huánuco,Marañón,Cholon,90502,100702
+100703,Huánuco,Marañón,San Buenaventura,90505,100703
+100704,Huánuco,Marañón,La Morada,,
+100705,Huánuco,Marañón,Santa Rosa de Alto Yanajanca,,
+100801,Huánuco,Pachitea,Panao,90701,100801
+100802,Huánuco,Pachitea,Chaglla,90702,100802
+100803,Huánuco,Pachitea,Molino,90704,100803
+100804,Huánuco,Pachitea,Umari,90706,100804
+100901,Huánuco,Puerto Inca,Puerto Inca,90802,100901
+100902,Huánuco,Puerto Inca,Codo del Pozuzo,90803,100902
+100903,Huánuco,Puerto Inca,Honoria,90801,100903
+100904,Huánuco,Puerto Inca,Tournavista,90804,100904
+100905,Huánuco,Puerto Inca,Yuyapichis,90805,100905
+101001,Huánuco,Lauricocha,Jesús,91001,101001
+101002,Huánuco,Lauricocha,Baños,91002,101002
+101003,Huánuco,Lauricocha,Jivia,91007,101003
+101004,Huánuco,Lauricocha,Queropalca,91004,101004
+101005,Huánuco,Lauricocha,Rondos,91006,101005
+101006,Huánuco,Lauricocha,San Francisco de Asís,91003,101006
+101007,Huánuco,Lauricocha,San Miguel de Cauri,91005,101007
+101101,Huánuco,Yarowilca,Chavinillo,91101,101101
+101102,Huánuco,Yarowilca,Cahuac,91103,101102
+101103,Huánuco,Yarowilca,Chacabamba,91104,101103
+101104,Huánuco,Yarowilca,Aparicio Pomares,91102,101104
+101105,Huánuco,Yarowilca,Jacas Chico,91105,101105
+101106,Huánuco,Yarowilca,Obas,91106,101106
+101107,Huánuco,Yarowilca,Pampamarca,91107,101107
+101108,Huánuco,Yarowilca,Choras,91108,101108
+110101,Ica,Ica,Ica,100101,110101
+110102,Ica,Ica,La Tinguiña,100102,110102
+110103,Ica,Ica,Los Aquijes,100103,110103
+110104,Ica,Ica,Ocucaje,100114,110104
+110105,Ica,Ica,Pachacutec,100113,110105
+110106,Ica,Ica,Parcona,100104,110106
+110107,Ica,Ica,Pueblo Nuevo,100105,110107
+110108,Ica,Ica,Salas,100106,110108
+110109,Ica,Ica,San José de Los Molinos,100107,110109
+110110,Ica,Ica,San Juan Bautista,100108,110110
+110111,Ica,Ica,Santiago,100109,110111
+110112,Ica,Ica,Subtanjalla,100110,110112
+110113,Ica,Ica,Tate,100112,110113
+110114,Ica,Ica,Yauca del Rosario,100111,110114
+110201,Ica,Chincha,Chincha Alta,100201,110201
+110202,Ica,Chincha,Alto Laran,100209,110202
+110203,Ica,Chincha,Chavin,100202,110203
+110204,Ica,Chincha,Chincha Baja,100203,110204
+110205,Ica,Chincha,El Carmen,100204,110205
+110206,Ica,Chincha,Grocio Prado,100205,110206
+110207,Ica,Chincha,Pueblo Nuevo,100210,110207
+110208,Ica,Chincha,San Juan de Yanac,100211,110208
+110209,Ica,Chincha,San Pedro de Huacarpana,100206,110209
+110210,Ica,Chincha,Sunampe,100207,110210
+110211,Ica,Chincha,Tambo de Mora,100208,110211
+110301,Ica,Nasca,Nasca,100301,110301
+110302,Ica,Nasca,Changuillo,100302,110302
+110303,Ica,Nasca,El Ingenio,100303,110303
+110304,Ica,Nasca,Marcona,100304,110304
+110305,Ica,Nasca,Vista Alegre,100305,110305
+110401,Ica,Palpa,Palpa,100501,110401
+110402,Ica,Palpa,Llipata,100502,110402
+110403,Ica,Palpa,Río Grande,100503,110403
+110404,Ica,Palpa,Santa Cruz,100504,110404
+110405,Ica,Palpa,Tibillo,100505,110405
+110501,Ica,Pisco,Pisco,100401,110501
+110502,Ica,Pisco,Huancano,100402,110502
+110503,Ica,Pisco,Humay,100403,110503
+110504,Ica,Pisco,Independencia,100404,110504
+110505,Ica,Pisco,Paracas,100405,110505
+110506,Ica,Pisco,San Andrés,100406,110506
+110507,Ica,Pisco,San Clemente,100407,110507
+110508,Ica,Pisco,Tupac Amaru Inca,100408,110508
+120101,Junín,Huancayo,Huancayo,110101,120101
+120104,Junín,Huancayo,Carhuacallanga,110103,120104
+120105,Junín,Huancayo,Chacapampa,110106,120105
+120106,Junín,Huancayo,Chicche,110107,120106
+120107,Junín,Huancayo,Chilca,110108,120107
+120108,Junín,Huancayo,Chongos Alto,110109,120108
+120111,Junín,Huancayo,Chupuro,110112,120111
+120112,Junín,Huancayo,Colca,110104,120112
+120113,Junín,Huancayo,Cullhuas,110105,120113
+120114,Junín,Huancayo,El Tambo,110113,120114
+120116,Junín,Huancayo,Huacrapuquio,110114,120116
+120117,Junín,Huancayo,Hualhuas,110116,120117
+120119,Junín,Huancayo,Huancan,110118,120119
+120120,Junín,Huancayo,Huasicancha,110119,120120
+120121,Junín,Huancayo,Huayucachi,110120,120121
+120122,Junín,Huancayo,Ingenio,110121,120122
+120124,Junín,Huancayo,Pariahuanca,110122,120124
+120125,Junín,Huancayo,Pilcomayo,110123,120125
+120126,Junín,Huancayo,Pucara,110124,120126
+120127,Junín,Huancayo,Quichuay,110125,120127
+120128,Junín,Huancayo,Quilcas,110126,120128
+120129,Junín,Huancayo,San Agustín,110127,120129
+120130,Junín,Huancayo,San Jerónimo de Tunan,110128,120130
+120132,Junín,Huancayo,Saño,110132,120132
+120133,Junín,Huancayo,Sapallanga,110133,120133
+120134,Junín,Huancayo,Sicaya,110134,120134
+120135,Junín,Huancayo,Santo Domingo de Acobamba,110131,120135
+120136,Junín,Huancayo,Viques,110136,120136
+120201,Junín,Concepción,Concepción,110201,120201
+120202,Junín,Concepción,Aco,110202,120202
+120203,Junín,Concepción,Andamarca,110203,120203
+120204,Junín,Concepción,Chambara,110206,120204
+120205,Junín,Concepción,Cochas,110205,120205
+120206,Junín,Concepción,Comas,110204,120206
+120207,Junín,Concepción,Heroínas Toledo,110207,120207
+120208,Junín,Concepción,Manzanares,110208,120208
+120209,Junín,Concepción,Mariscal Castilla,110209,120209
+120210,Junín,Concepción,Matahuasi,110210,120210
+120211,Junín,Concepción,Mito,110211,120211
+120212,Junín,Concepción,Nueve de Julio,110212,120212
+120213,Junín,Concepción,Orcotuna,110213,120213
+120214,Junín,Concepción,San José de Quero,110215,120214
+120215,Junín,Concepción,Santa Rosa de Ocopa,110214,120215
+120301,Junín,Chanchamayo,Chanchamayo,110801,120301
+120302,Junín,Chanchamayo,Perene,110806,120302
+120303,Junín,Chanchamayo,Pichanaqui,110805,120303
+120304,Junín,Chanchamayo,San Luis de Shuaro,110804,120304
+120305,Junín,Chanchamayo,San Ramón,110802,120305
+120306,Junín,Chanchamayo,Vitoc,110803,120306
+120401,Junín,Jauja,Jauja,110301,120401
+120402,Junín,Jauja,Acolla,110302,120402
+120403,Junín,Jauja,Apata,110303,120403
+120404,Junín,Jauja,Ataura,110304,120404
+120405,Junín,Jauja,Canchayllo,110305,120405
+120406,Junín,Jauja,Curicaca,110331,120406
+120407,Junín,Jauja,El Mantaro,110306,120407
+120408,Junín,Jauja,Huamali,110307,120408
+120409,Junín,Jauja,Huaripampa,110308,120409
+120410,Junín,Jauja,Huertas,110309,120410
+120411,Junín,Jauja,Janjaillo,110310,120411
+120412,Junín,Jauja,Julcán,110311,120412
+120413,Junín,Jauja,Leonor Ordóñez,110312,120413
+120414,Junín,Jauja,Llocllapampa,110313,120414
+120415,Junín,Jauja,Marco,110314,120415
+120416,Junín,Jauja,Masma,110315,120416
+120417,Junín,Jauja,Masma Chicche,110332,120417
+120418,Junín,Jauja,Molinos,110316,120418
+120419,Junín,Jauja,Monobamba,110317,120419
+120420,Junín,Jauja,Muqui,110318,120420
+120421,Junín,Jauja,Muquiyauyo,110319,120421
+120422,Junín,Jauja,Paca,110320,120422
+120423,Junín,Jauja,Paccha,110321,120423
+120424,Junín,Jauja,Pancan,110322,120424
+120425,Junín,Jauja,Parco,110323,120425
+120426,Junín,Jauja,Pomacancha,110324,120426
+120427,Junín,Jauja,Ricran,110325,120427
+120428,Junín,Jauja,San Lorenzo,110326,120428
+120429,Junín,Jauja,San Pedro de Chunan,110327,120429
+120430,Junín,Jauja,Sausa,110333,120430
+120431,Junín,Jauja,Sincos,110328,120431
+120432,Junín,Jauja,Tunan Marca,110329,120432
+120433,Junín,Jauja,Yauli,110330,120433
+120434,Junín,Jauja,Yauyos,110334,120434
+120501,Junín,Junín,Junin,110401,120501
+120502,Junín,Junín,Carhuamayo,110402,120502
+120503,Junín,Junín,Ondores,110403,120503
+120504,Junín,Junín,Ulcumayo,110404,120504
+120601,Junín,Satipo,Satipo,110701,120601
+120602,Junín,Satipo,Coviriali,110702,120602
+120603,Junín,Satipo,Llaylla,110703,120603
+120604,Junín,Satipo,Mazamari,110704,120604
+120605,Junín,Satipo,Pampa Hermosa,110705,120605
+120606,Junín,Satipo,Pangoa,110706,120606
+120607,Junín,Satipo,Río Negro,110707,120607
+120608,Junín,Satipo,Río Tambo,110708,120608
+120609,Junín,Satipo,Vizcatan del Ene,,
+120701,Junín,Tarma,Tarma,110501,120701
+120702,Junín,Tarma,Acobamba,110502,120702
+120703,Junín,Tarma,Huaricolca,110503,120703
+120704,Junín,Tarma,Huasahuasi,110504,120704
+120705,Junín,Tarma,La Unión,110505,120705
+120706,Junín,Tarma,Palca,110506,120706
+120707,Junín,Tarma,Palcamayo,110507,120707
+120708,Junín,Tarma,San Pedro de Cajas,110508,120708
+120709,Junín,Tarma,Tapo,110509,120709
+120801,Junín,Yauli,La Oroya,110601,120801
+120802,Junín,Yauli,Chacapalpa,110602,120802
+120803,Junín,Yauli,Huay-Huay,110603,120803
+120804,Junín,Yauli,Marcapomacocha,110604,120804
+120805,Junín,Yauli,Morococha,110605,120805
+120806,Junín,Yauli,Paccha,110606,120806
+120807,Junín,Yauli,Santa Bárbara de Carhuacayan,110607,120807
+120808,Junín,Yauli,Santa Rosa de Sacco,110610,120808
+120809,Junín,Yauli,Suitucancha,110608,120809
+120810,Junín,Yauli,Yauli,110609,120810
+120901,Junín,Chupaca,Chupaca,110901,120901
+120902,Junín,Chupaca,Ahuac,110902,120902
+120903,Junín,Chupaca,Chongos Bajo,110903,120903
+120904,Junín,Chupaca,Huachac,110904,120904
+120905,Junín,Chupaca,Huamancaca Chico,110905,120905
+120906,Junín,Chupaca,San Juan de Iscos,110906,120906
+120907,Junín,Chupaca,San Juan de Jarpa,110907,120907
+120908,Junín,Chupaca,Tres de Diciembre,110908,120908
+120909,Junín,Chupaca,Yanacancha,110909,120909
+130101,La Libertad,Trujillo,Trujillo,120101,130101
+130102,La Libertad,Trujillo,El Porvenir,120110,130102
+130103,La Libertad,Trujillo,Florencia de Mora,120112,130103
+130104,La Libertad,Trujillo,Huanchaco,120102,130104
+130105,La Libertad,Trujillo,La Esperanza,120111,130105
+130106,La Libertad,Trujillo,Laredo,120103,130106
+130107,La Libertad,Trujillo,Moche,120104,130107
+130108,La Libertad,Trujillo,Poroto,120109,130108
+130109,La Libertad,Trujillo,Salaverry,120105,130109
+130110,La Libertad,Trujillo,Simbal,120106,130110
+130111,La Libertad,Trujillo,Victor Larco Herrera,120107,130111
+130201,La Libertad,Ascope,Ascope,120801,130201
+130202,La Libertad,Ascope,Chicama,120802,130202
+130203,La Libertad,Ascope,Chocope,120803,130203
+130204,La Libertad,Ascope,Magdalena de Cao,120805,130204
+130205,La Libertad,Ascope,Paijan,120806,130205
+130206,La Libertad,Ascope,Rázuri,120807,130206
+130207,La Libertad,Ascope,Santiago de Cao,120804,130207
+130208,La Libertad,Ascope,Casa Grande,120808,130208
+130301,La Libertad,Bolívar,Bolívar,120201,130301
+130302,La Libertad,Bolívar,Bambamarca,120202,130302
+130303,La Libertad,Bolívar,Condormarca,120203,130303
+130304,La Libertad,Bolívar,Longotea,120204,130304
+130305,La Libertad,Bolívar,Uchumarca,120206,130305
+130306,La Libertad,Bolívar,Ucuncha,120205,130306
+130401,La Libertad,Chepén,Chepen,120901,130401
+130402,La Libertad,Chepén,Pacanga,120902,130402
+130403,La Libertad,Chepén,Pueblo Nuevo,120903,130403
+130501,La Libertad,Julcán,Julcan,121001,130501
+130502,La Libertad,Julcán,Calamarca,121003,130502
+130503,La Libertad,Julcán,Carabamba,121002,130503
+130504,La Libertad,Julcán,Huaso,121004,130504
+130601,La Libertad,Otuzco,Otuzco,120401,130601
+130602,La Libertad,Otuzco,Agallpampa,120402,130602
+130604,La Libertad,Otuzco,Charat,120403,130604
+130605,La Libertad,Otuzco,Huaranchal,120404,130605
+130606,La Libertad,Otuzco,La Cuesta,120405,130606
+130608,La Libertad,Otuzco,Mache,120413,130608
+130610,La Libertad,Otuzco,Paranday,120408,130610
+130611,La Libertad,Otuzco,Salpo,120409,130611
+130613,La Libertad,Otuzco,Sinsicap,120410,130613
+130614,La Libertad,Otuzco,Usquil,120411,130614
+130701,La Libertad,Pacasmayo,San Pedro de Lloc,120501,130701
+130702,La Libertad,Pacasmayo,Guadalupe,120503,130702
+130703,La Libertad,Pacasmayo,Jequetepeque,120504,130703
+130704,La Libertad,Pacasmayo,Pacasmayo,120506,130704
+130705,La Libertad,Pacasmayo,San José,120508,130705
+130801,La Libertad,Pataz,Tayabamba,120601,130801
+130802,La Libertad,Pataz,Buldibuyo,120602,130802
+130803,La Libertad,Pataz,Chillia,120603,130803
+130804,La Libertad,Pataz,Huancaspata,120605,130804
+130805,La Libertad,Pataz,Huaylillas,120604,130805
+130806,La Libertad,Pataz,Huayo,120606,130806
+130807,La Libertad,Pataz,Ongon,120607,130807
+130808,La Libertad,Pataz,Parcoy,120608,130808
+130809,La Libertad,Pataz,Pataz,120609,130809
+130810,La Libertad,Pataz,Pias,120610,130810
+130811,La Libertad,Pataz,Santiago de Challas,120613,130811
+130812,La Libertad,Pataz,Taurija,120611,130812
+130813,La Libertad,Pataz,Urpay,120612,130813
+130901,La Libertad,Sánchez Carrión,Huamachuco,120301,130901
+130902,La Libertad,Sánchez Carrión,Chugay,120304,130902
+130903,La Libertad,Sánchez Carrión,Cochorco,120302,130903
+130904,La Libertad,Sánchez Carrión,Curgos,120303,130904
+130905,La Libertad,Sánchez Carrión,Marcabal,120305,130905
+130906,La Libertad,Sánchez Carrión,Sanagoran,120306,130906
+130907,La Libertad,Sánchez Carrión,Sarin,120307,130907
+130908,La Libertad,Sánchez Carrión,Sartimbamba,120308,130908
+131001,La Libertad,Santiago de Chuco,Santiago de Chuco,120701,131001
+131002,La Libertad,Santiago de Chuco,Angasmarca,120708,131002
+131003,La Libertad,Santiago de Chuco,Cachicadan,120702,131003
+131004,La Libertad,Santiago de Chuco,Mollebamba,120703,131004
+131005,La Libertad,Santiago de Chuco,Mollepata,120704,131005
+131006,La Libertad,Santiago de Chuco,Quiruvilca,120705,131006
+131007,La Libertad,Santiago de Chuco,Santa Cruz de Chuca,120706,131007
+131008,La Libertad,Santiago de Chuco,Sitabamba,120707,131008
+131101,La Libertad,Gran Chimú,Cascas,121101,131101
+131102,La Libertad,Gran Chimú,Lucma,121102,131102
+131103,La Libertad,Gran Chimú,Marmot,121103,
+131104,La Libertad,Gran Chimú,Sayapullo,121104,131104
+131201,La Libertad,Virú,Viru,121201,131201
+131202,La Libertad,Virú,Chao,121202,131202
+131203,La Libertad,Virú,Guadalupito,121203,131203
+140101,Lambayeque,Chiclayo,Chiclayo,130101,140101
+140102,Lambayeque,Chiclayo,Chongoyape,130102,140102
+140103,Lambayeque,Chiclayo,Eten,130103,140103
+140104,Lambayeque,Chiclayo,Eten Puerto,130104,140104
+140105,Lambayeque,Chiclayo,José Leonardo Ortiz,130112,140105
+140106,Lambayeque,Chiclayo,La Victoria,130115,140106
+140107,Lambayeque,Chiclayo,Lagunas,130105,140107
+140108,Lambayeque,Chiclayo,Monsefu,130106,140108
+140109,Lambayeque,Chiclayo,Nueva Arica,130107,140109
+140110,Lambayeque,Chiclayo,Oyotun,130108,140110
+140111,Lambayeque,Chiclayo,Picsi,130109,140111
+140112,Lambayeque,Chiclayo,Pimentel,130110,140112
+140113,Lambayeque,Chiclayo,Reque,130111,140113
+140114,Lambayeque,Chiclayo,Santa Rosa,130113,140114
+140115,Lambayeque,Chiclayo,Saña,130114,140115
+140116,Lambayeque,Chiclayo,Cayalti,130116,140116
+140117,Lambayeque,Chiclayo,Patapo,130117,140117
+140118,Lambayeque,Chiclayo,Pomalca,130118,140118
+140119,Lambayeque,Chiclayo,Pucala,130119,140119
+140120,Lambayeque,Chiclayo,Tuman,130120,140120
+140201,Lambayeque,Ferreñafe,Ferreñafe,130201,140201
+140202,Lambayeque,Ferreñafe,Cañaris,130203,140202
+140203,Lambayeque,Ferreñafe,Incahuasi,130202,140203
+140204,Lambayeque,Ferreñafe,Manuel Antonio Mesones Muro,130206,140204
+140205,Lambayeque,Ferreñafe,Pitipo,130204,140205
+140206,Lambayeque,Ferreñafe,Pueblo Nuevo,130205,140206
+140301,Lambayeque,Lambayeque,Lambayeque,130301,140301
+140302,Lambayeque,Lambayeque,Chochope,130302,140302
+140303,Lambayeque,Lambayeque,Illimo,130303,140303
+140304,Lambayeque,Lambayeque,Jayanca,130304,140304
+140305,Lambayeque,Lambayeque,Mochumi,130305,140305
+140306,Lambayeque,Lambayeque,Morrope,130306,140306
+140307,Lambayeque,Lambayeque,Motupe,130307,140307
+140308,Lambayeque,Lambayeque,Olmos,130308,140308
+140309,Lambayeque,Lambayeque,Pacora,130309,140309
+140310,Lambayeque,Lambayeque,Salas,130310,140310
+140311,Lambayeque,Lambayeque,San José,130311,140311
+140312,Lambayeque,Lambayeque,Tucume,130312,140312
+150101,Lima,Lima,Lima,140101,150101
+150102,Lima,Lima,Ancón,140102,150102
+150103,Lima,Lima,Ate,140103,150103
+150104,Lima,Lima,Barranco,140125,150104
+150105,Lima,Lima,Breña,140104,150105
+150106,Lima,Lima,Carabayllo,140105,150106
+150107,Lima,Lima,Chaclacayo,140107,150107
+150108,Lima,Lima,Chorrillos,140108,150108
+150109,Lima,Lima,Cieneguilla,140139,150109
+150110,Lima,Lima,Comas,140106,150110
+150111,Lima,Lima,El Agustino,140135,150111
+150112,Lima,Lima,Independencia,140134,150112
+150113,Lima,Lima,Jesús María,140133,150113
+150114,Lima,Lima,La Molina,140110,150114
+150115,Lima,Lima,La Victoria,140109,150115
+150116,Lima,Lima,Lince,140111,150116
+150117,Lima,Lima,Los Olivos,140142,150117
+150118,Lima,Lima,Lurigancho,140112,150118
+150119,Lima,Lima,Lurin,140113,150119
+150120,Lima,Lima,Magdalena del Mar,140114,150120
+150121,Lima,Lima,Pueblo Libre,140117,150121
+150122,Lima,Lima,Miraflores,140115,150122
+150123,Lima,Lima,Pachacamac,140116,150123
+150124,Lima,Lima,Pucusana,140118,150124
+150125,Lima,Lima,Puente Piedra,140119,150125
+150126,Lima,Lima,Punta Hermosa,140120,150126
+150127,Lima,Lima,Punta Negra,140121,150127
+150128,Lima,Lima,Rímac,140122,150128
+150129,Lima,Lima,San Bartolo,140123,150129
+150130,Lima,Lima,San Borja,140140,150130
+150131,Lima,Lima,San Isidro,140124,150131
+150132,Lima,Lima,San Juan de Lurigancho,140137,150132
+150133,Lima,Lima,San Juan de Miraflores,140136,150133
+150134,Lima,Lima,San Luis,140138,150134
+150135,Lima,Lima,San Martín de Porres,140126,150135
+150136,Lima,Lima,San Miguel,140127,150136
+150137,Lima,Lima,Santa Anita,140143,150137
+150138,Lima,Lima,Santa María del Mar,140128,150138
+150139,Lima,Lima,Santa Rosa,140129,150139
+150140,Lima,Lima,Santiago de Surco,140130,150140
+150141,Lima,Lima,Surquillo,140131,150141
+150142,Lima,Lima,Villa El Salvador,140141,150142
+150143,Lima,Lima,Villa María del Triunfo,140132,150143
+150201,Lima,Barranca,Barranca,140901,150201
+150202,Lima,Barranca,Paramonga,140902,150202
+150203,Lima,Barranca,Pativilca,140903,150203
+150204,Lima,Barranca,Supe,140904,150204
+150205,Lima,Barranca,Supe Puerto,140905,150205
+150301,Lima,Cajatambo,Cajatambo,140201,150301
+150302,Lima,Cajatambo,Copa,140205,150302
+150303,Lima,Cajatambo,Gorgor,140206,150303
+150304,Lima,Cajatambo,Huancapon,140207,150304
+150305,Lima,Cajatambo,Manas,140208,150305
+150401,Lima,Canta,Canta,140301,150401
+150402,Lima,Canta,Arahuay,140302,150402
+150403,Lima,Canta,Huamantanga,140303,150403
+150404,Lima,Canta,Huaros,140304,150404
+150405,Lima,Canta,Lachaqui,140305,150405
+150406,Lima,Canta,San Buenaventura,140306,150406
+150407,Lima,Canta,Santa Rosa de Quives,140307,150407
+150501,Lima,Cañete,San Vicente de Cañete,140401,150501
+150502,Lima,Cañete,Asia,140416,150502
+150503,Lima,Cañete,Calango,140402,150503
+150504,Lima,Cañete,Cerro Azul,140403,150504
+150505,Lima,Cañete,Chilca,140405,150505
+150506,Lima,Cañete,Coayllo,140404,150506
+150507,Lima,Cañete,Imperial,140406,150507
+150508,Lima,Cañete,Lunahuana,140407,150508
+150509,Lima,Cañete,Mala,140408,150509
+150510,Lima,Cañete,Nuevo Imperial,140409,150510
+150511,Lima,Cañete,Pacaran,140410,150511
+150512,Lima,Cañete,Quilmana,140411,150512
+150513,Lima,Cañete,San Antonio,140412,150513
+150514,Lima,Cañete,San Luis,140413,150514
+150515,Lima,Cañete,Santa Cruz de Flores,140414,150515
+150516,Lima,Cañete,Zúñiga,140415,150516
+150601,Lima,Huaral,Huaral,140801,150601
+150602,Lima,Huaral,Atavillos Alto,140802,150602
+150603,Lima,Huaral,Atavillos Bajo,140803,150603
+150604,Lima,Huaral,Aucallama,140804,150604
+150605,Lima,Huaral,Chancay,140805,150605
+150606,Lima,Huaral,Ihuari,140806,150606
+150607,Lima,Huaral,Lampian,140807,150607
+150608,Lima,Huaral,Pacaraos,140808,150608
+150609,Lima,Huaral,San Miguel de Acos,140809,150609
+150610,Lima,Huaral,Santa Cruz de Andamarca,140811,150610
+150611,Lima,Huaral,Sumbilca,140812,150611
+150612,Lima,Huaral,Veintisiete de Noviembre,140810,150612
+150701,Lima,Huarochirí,Matucana,140601,150701
+150702,Lima,Huarochirí,Antioquia,140602,150702
+150703,Lima,Huarochirí,Callahuanca,140603,150703
+150704,Lima,Huarochirí,Carampoma,140604,150704
+150705,Lima,Huarochirí,Chicla,140607,150705
+150706,Lima,Huarochirí,Cuenca,,150706
+150707,Lima,Huarochirí,Huachupampa,140630,150707
+150708,Lima,Huarochirí,Huanza,140608,150708
+150709,Lima,Huarochirí,Huarochiri,140609,150709
+150710,Lima,Huarochirí,Lahuaytambo,140610,150710
+150711,Lima,Huarochirí,Langa,140611,150711
+150712,Lima,Huarochirí,Laraos,140631,150712
+150713,Lima,Huarochirí,Mariatana,140612,150713
+150714,Lima,Huarochirí,Ricardo Palma,140613,150714
+150715,Lima,Huarochirí,San Andrés de Tupicocha,140614,150715
+150716,Lima,Huarochirí,San Antonio,140615,150716
+150717,Lima,Huarochirí,San Bartolomé,140616,150717
+150718,Lima,Huarochirí,San Damian,140617,150718
+150719,Lima,Huarochirí,San Juan de Iris,140632,150719
+150720,Lima,Huarochirí,San Juan de Tantaranche,140619,150720
+150721,Lima,Huarochirí,San Lorenzo de Quinti,140620,150721
+150722,Lima,Huarochirí,San Mateo,140621,150722
+150723,Lima,Huarochirí,San Mateo de Otao,140622,150723
+150724,Lima,Huarochirí,San Pedro de Casta,140605,150724
+150725,Lima,Huarochirí,San Pedro de Huancayre,140623,150725
+150726,Lima,Huarochirí,Sangallaya,140618,150726
+150727,Lima,Huarochirí,Santa Cruz de Cocachacra,140624,150727
+150728,Lima,Huarochirí,Santa Eulalia,140625,150728
+150729,Lima,Huarochirí,Santiago de Anchucaya,140626,150729
+150730,Lima,Huarochirí,Santiago de Tuna,140627,150730
+150731,Lima,Huarochirí,Santo Domingo de Los Olleros,140628,150731
+150732,Lima,Huarochirí,Surco,140629,150732
+150801,Lima,Huaura,Huacho,140501,150801
+150802,Lima,Huaura,Ambar,140502,150802
+150803,Lima,Huaura,Caleta de Carquin,140504,150803
+150804,Lima,Huaura,Checras,140505,150804
+150805,Lima,Huaura,Hualmay,140506,150805
+150806,Lima,Huaura,Huaura,140507,150806
+150807,Lima,Huaura,Leoncio Prado,140508,150807
+150808,Lima,Huaura,Paccho,140509,150808
+150809,Lima,Huaura,Santa Leonor,140511,150809
+150810,Lima,Huaura,Santa María,140512,150810
+150811,Lima,Huaura,Sayan,140513,150811
+150812,Lima,Huaura,Vegueta,140516,150812
+150901,Lima,Oyón,Oyon,141001,150901
+150902,Lima,Oyón,Andajes,141004,150902
+150903,Lima,Oyón,Caujul,141003,150903
+150904,Lima,Oyón,Cochamarca,141006,150904
+150905,Lima,Oyón,Navan,141002,150905
+150906,Lima,Oyón,Pachangara,141005,150906
+151001,Lima,Yauyos,Yauyos,140701,151001
+151002,Lima,Yauyos,Alis,140702,151002
+151003,Lima,Yauyos,Allauca,140703,151003
+151004,Lima,Yauyos,Ayaviri,140704,151004
+151005,Lima,Yauyos,Azángaro,140705,151005
+151006,Lima,Yauyos,Cacra,140706,151006
+151007,Lima,Yauyos,Carania,140707,151007
+151008,Lima,Yauyos,Catahuasi,140733,151008
+151009,Lima,Yauyos,Chocos,140710,151009
+151010,Lima,Yauyos,Cochas,140708,151010
+151011,Lima,Yauyos,Colonia,140709,151011
+151012,Lima,Yauyos,Hongos,140730,151012
+151013,Lima,Yauyos,Huampara,140711,151013
+151014,Lima,Yauyos,Huancaya,140712,151014
+151015,Lima,Yauyos,Huangascar,140713,151015
+151016,Lima,Yauyos,Huantan,140714,151016
+151017,Lima,Yauyos,Huañec,140715,151017
+151018,Lima,Yauyos,Laraos,140716,151018
+151019,Lima,Yauyos,Lincha,140717,151019
+151020,Lima,Yauyos,Madean,140731,151020
+151021,Lima,Yauyos,Miraflores,140718,151021
+151022,Lima,Yauyos,Omas,140719,151022
+151023,Lima,Yauyos,Putinza,140732,151023
+151024,Lima,Yauyos,Quinches,140720,151024
+151025,Lima,Yauyos,Quinocay,140721,151025
+151026,Lima,Yauyos,San Joaquín,140722,151026
+151027,Lima,Yauyos,San Pedro de Pilas,140723,151027
+151028,Lima,Yauyos,Tanta,140724,151028
+151029,Lima,Yauyos,Tauripampa,140725,151029
+151030,Lima,Yauyos,Tomas,140727,151030
+151031,Lima,Yauyos,Tupe,140726,151031
+151032,Lima,Yauyos,Viñac,140728,151032
+151033,Lima,Yauyos,Vitis,140729,151033
+160101,Loreto,Maynas,Iquitos,150101,160101
+160102,Loreto,Maynas,Alto Nanay,150102,160102
+160103,Loreto,Maynas,Fernando Lores,150103,160103
+160104,Loreto,Maynas,Indiana,150110,160104
+160105,Loreto,Maynas,Las Amazonas,150104,160105
+160106,Loreto,Maynas,Mazan,150105,160106
+160107,Loreto,Maynas,Napo,150106,160107
+160108,Loreto,Maynas,Punchana,150111,160108
+160110,Loreto,Maynas,Torres Causana,150108,160110
+160112,Loreto,Maynas,Belén,150112,160112
+160113,Loreto,Maynas,San Juan Bautista,150113,160113
+160201,Loreto,Alto Amazonas,Yurimaguas,150201,160201
+160202,Loreto,Alto Amazonas,Balsapuerto,150202,160202
+160205,Loreto,Alto Amazonas,Jeberos,150205,160205
+160206,Loreto,Alto Amazonas,Lagunas,150206,160206
+160210,Loreto,Alto Amazonas,Santa Cruz,150210,160210
+160211,Loreto,Alto Amazonas,Teniente Cesar López Rojas,150211,160211
+160301,Loreto,Loreto,Nauta,150301,160301
+160302,Loreto,Loreto,Parinari,150302,160302
+160303,Loreto,Loreto,Tigre,150303,160303
+160304,Loreto,Loreto,Trompeteros,150305,160304
+160305,Loreto,Loreto,Urarinas,150304,160305
+160401,Loreto,Mariscal Ramón Castilla,Ramón Castilla,150601,160401
+160402,Loreto,Mariscal Ramón Castilla,Pebas,150602,160402
+160403,Loreto,Mariscal Ramón Castilla,Yavari,150603,160403
+160404,Loreto,Mariscal Ramón Castilla,San Pablo,150604,160404
+160501,Loreto,Requena,Requena,150401,160501
+160502,Loreto,Requena,Alto Tapiche,150402,160502
+160503,Loreto,Requena,Capelo,150403,160503
+160504,Loreto,Requena,Emilio San Martín,150404,160504
+160505,Loreto,Requena,Maquia,150405,160505
+160506,Loreto,Requena,Puinahua,150406,160506
+160507,Loreto,Requena,Saquena,150407,160507
+160508,Loreto,Requena,Soplin,150408,160508
+160509,Loreto,Requena,Tapiche,150409,160509
+160510,Loreto,Requena,Jenaro Herrera,150410,160510
+160511,Loreto,Requena,Yaquerana,150411,160511
+160601,Loreto,Ucayali,Contamana,150501,160601
+160602,Loreto,Ucayali,Inahuaya,150506,160602
+160603,Loreto,Ucayali,Padre Márquez,150503,160603
+160604,Loreto,Ucayali,Pampa Hermosa,150504,160604
+160605,Loreto,Ucayali,Sarayacu,150505,160605
+160606,Loreto,Ucayali,Vargas Guerra,150502,160606
+160701,Loreto,Datem del Marañón,Barranca,150701,160701
+160702,Loreto,Datem del Marañón,Cahuapanas,150703,160702
+160703,Loreto,Datem del Marañón,Manseriche,150704,160703
+160704,Loreto,Datem del Marañón,Morona,150705,160704
+160705,Loreto,Datem del Marañón,Pastaza,150706,160705
+160706,Loreto,Datem del Marañón,Andoas,150702,160706
+160801,Loreto,Putumayo,Putumayo,150107,160109
+160802,Loreto,Putumayo,Rosa Panduro,,
+160803,Loreto,Putumayo,Teniente Manuel Clavero,150114,160114
+160804,Loreto,Putumayo,Yaguas,,
+170101,Madre de Dios,Tambopata,Tambopata,160101,170101
+170102,Madre de Dios,Tambopata,Inambari,160102,170102
+170103,Madre de Dios,Tambopata,Las Piedras,160103,170103
+170104,Madre de Dios,Tambopata,Laberinto,160104,170104
+170201,Madre de Dios,Manu,Manu,160201,170201
+170202,Madre de Dios,Manu,Fitzcarrald,160202,170202
+170203,Madre de Dios,Manu,Madre de Dios,160203,170203
+170204,Madre de Dios,Manu,Huepetuhe,160204,170204
+170301,Madre de Dios,Tahuamanu,Iñapari,160301,170301
+170302,Madre de Dios,Tahuamanu,Iberia,160302,170302
+170303,Madre de Dios,Tahuamanu,Tahuamanu,160303,170303
+180101,Moquegua,Mariscal Nieto,Moquegua,170101,180101
+180102,Moquegua,Mariscal Nieto,Carumas,170102,180102
+180103,Moquegua,Mariscal Nieto,Cuchumbaya,170103,180103
+180104,Moquegua,Mariscal Nieto,Samegua,170106,180104
+180105,Moquegua,Mariscal Nieto,San Cristóbal,170104,180105
+180106,Moquegua,Mariscal Nieto,Torata,170105,180106
+180201,Moquegua,General Sánchez Cerro,Omate,170201,180201
+180202,Moquegua,General Sánchez Cerro,Chojata,170203,180202
+180203,Moquegua,General Sánchez Cerro,Coalaque,170202,180203
+180204,Moquegua,General Sánchez Cerro,Ichuña,170204,180204
+180205,Moquegua,General Sánchez Cerro,La Capilla,170205,180205
+180206,Moquegua,General Sánchez Cerro,Lloque,170206,180206
+180207,Moquegua,General Sánchez Cerro,Matalaque,170207,180207
+180208,Moquegua,General Sánchez Cerro,Puquina,170208,180208
+180209,Moquegua,General Sánchez Cerro,Quinistaquillas,170209,180209
+180210,Moquegua,General Sánchez Cerro,Ubinas,170210,180210
+180211,Moquegua,General Sánchez Cerro,Yunga,170211,180211
+180301,Moquegua,Ilo,Ilo,170301,180301
+180302,Moquegua,Ilo,El Algarrobal,170302,180302
+180303,Moquegua,Ilo,Pacocha,170303,180303
+190101,Pasco,Pasco,Chaupimarca,180101,190101
+190102,Pasco,Pasco,Huachon,180103,190102
+190103,Pasco,Pasco,Huariaca,180104,190103
+190104,Pasco,Pasco,Huayllay,180105,190104
+190105,Pasco,Pasco,Ninacaca,180106,190105
+190106,Pasco,Pasco,Pallanchacra,180107,190106
+190107,Pasco,Pasco,Paucartambo,180108,190107
+190108,Pasco,Pasco,San Francisco de Asís de Yarusyacan,180109,190108
+190109,Pasco,Pasco,Simon Bolívar,180110,190109
+190110,Pasco,Pasco,Ticlacayan,180111,190110
+190111,Pasco,Pasco,Tinyahuarco,180112,190111
+190112,Pasco,Pasco,Vicco,180113,190112
+190113,Pasco,Pasco,Yanacancha,180114,190113
+190201,Pasco,Daniel Alcides Carrión,Yanahuanca,180201,190201
+190202,Pasco,Daniel Alcides Carrión,Chacayan,180202,190202
+190203,Pasco,Daniel Alcides Carrión,Goyllarisquizga,180203,190203
+190204,Pasco,Daniel Alcides Carrión,Paucar,180204,190204
+190205,Pasco,Daniel Alcides Carrión,San Pedro de Pillao,180205,190205
+190206,Pasco,Daniel Alcides Carrión,Santa Ana de Tusi,180206,190206
+190207,Pasco,Daniel Alcides Carrión,Tapuc,180207,190207
+190208,Pasco,Daniel Alcides Carrión,Vilcabamba,180208,190208
+190301,Pasco,Oxapampa,Oxapampa,180301,190301
+190302,Pasco,Oxapampa,Chontabamba,180302,190302
+190303,Pasco,Oxapampa,Huancabamba,180303,190303
+190304,Pasco,Oxapampa,Palcazu,180307,190304
+190305,Pasco,Oxapampa,Pozuzo,180306,190305
+190306,Pasco,Oxapampa,Puerto Bermúdez,180304,190306
+190307,Pasco,Oxapampa,Villa Rica,180305,190307
+190308,Pasco,Oxapampa,Constitución,180308,
+200101,Piura,Piura,Piura,190101,200101
+200104,Piura,Piura,Castilla,190103,200104
+200105,Piura,Piura,Catacaos,190104,200105
+200107,Piura,Piura,Cura Mori,190113,200107
+200108,Piura,Piura,El Tallan,190114,200108
+200109,Piura,Piura,La Arena,190105,200109
+200110,Piura,Piura,La Unión,190106,200110
+200111,Piura,Piura,Las Lomas,190107,200111
+200114,Piura,Piura,Tambo Grande,190109,200114
+200115,Piura,Piura,Veintiseis de Octubre,,
+200201,Piura,Ayabaca,Ayabaca,190201,200201
+200202,Piura,Ayabaca,Frias,190202,200202
+200203,Piura,Ayabaca,Jilili,190209,200203
+200204,Piura,Ayabaca,Lagunas,190203,200204
+200205,Piura,Ayabaca,Montero,190204,200205
+200206,Piura,Ayabaca,Pacaipampa,190205,200206
+200207,Piura,Ayabaca,Paimas,190210,200207
+200208,Piura,Ayabaca,Sapillica,190206,200208
+200209,Piura,Ayabaca,Sicchez,190207,200209
+200210,Piura,Ayabaca,Suyo,190208,200210
+200301,Piura,Huancabamba,Huancabamba,190301,200301
+200302,Piura,Huancabamba,Canchaque,190302,200302
+200303,Piura,Huancabamba,El Carmen de la Frontera,190306,200303
+200304,Piura,Huancabamba,Huarmaca,190303,200304
+200305,Piura,Huancabamba,Lalaquiz,190308,200305
+200306,Piura,Huancabamba,San Miguel de El Faique,190307,200306
+200307,Piura,Huancabamba,Sondor,190304,200307
+200308,Piura,Huancabamba,Sondorillo,190305,200308
+200401,Piura,Morropón,Chulucanas,190401,200401
+200402,Piura,Morropón,Buenos Aires,190402,200402
+200403,Piura,Morropón,Chalaco,190403,200403
+200404,Piura,Morropón,La Matanza,190408,200404
+200405,Piura,Morropón,Morropon,190404,200405
+200406,Piura,Morropón,Salitral,190405,200406
+200407,Piura,Morropón,San Juan de Bigote,190410,200407
+200408,Piura,Morropón,Santa Catalina de Mossa,190406,200408
+200409,Piura,Morropón,Santo Domingo,190407,200409
+200410,Piura,Morropón,Yamango,190409,200410
+200501,Piura,Paita,Paita,190501,200501
+200502,Piura,Paita,Amotape,190502,200502
+200503,Piura,Paita,Arenal,190503,200503
+200504,Piura,Paita,Colan,190505,200504
+200505,Piura,Paita,La Huaca,190504,200505
+200506,Piura,Paita,Tamarindo,190506,200506
+200507,Piura,Paita,Vichayal,190507,200507
+200601,Piura,Sullana,Sullana,190601,200601
+200602,Piura,Sullana,Bellavista,190602,200602
+200603,Piura,Sullana,Ignacio Escudero,190608,200603
+200604,Piura,Sullana,Lancones,190603,200604
+200605,Piura,Sullana,Marcavelica,190604,200605
+200606,Piura,Sullana,Miguel Checa,190605,200606
+200607,Piura,Sullana,Querecotillo,190606,200607
+200608,Piura,Sullana,Salitral,190607,200608
+200701,Piura,Talara,Pariñas,190701,200701
+200702,Piura,Talara,El Alto,190702,200702
+200703,Piura,Talara,La Brea,190703,200703
+200704,Piura,Talara,Lobitos,190704,200704
+200705,Piura,Talara,Los Organos,190706,200705
+200706,Piura,Talara,Mancora,190705,200706
+200801,Piura,Sechura,Sechura,190801,200801
+200802,Piura,Sechura,Bellavista de la Unión,190804,200802
+200803,Piura,Sechura,Bernal,190803,200803
+200804,Piura,Sechura,Cristo Nos Valga,190805,200804
+200805,Piura,Sechura,Vice,190802,200805
+200806,Piura,Sechura,Rinconada Llicuar,190806,200806
+210101,Puno,Puno,Puno,200101,210101
+210102,Puno,Puno,Acora,200102,210102
+210103,Puno,Puno,Amantani,200115,210103
+210104,Puno,Puno,Atuncolla,200103,210104
+210105,Puno,Puno,Capachica,200104,210105
+210106,Puno,Puno,Chucuito,200106,210106
+210107,Puno,Puno,Coata,200105,210107
+210108,Puno,Puno,Huata,200107,210108
+210109,Puno,Puno,Mañazo,200108,210109
+210110,Puno,Puno,Paucarcolla,200109,210110
+210111,Puno,Puno,Pichacani,200110,210111
+210112,Puno,Puno,Plateria,200114,210112
+210113,Puno,Puno,San Antonio,200111,210113
+210114,Puno,Puno,Tiquillaca,200112,210114
+210115,Puno,Puno,Vilque,200113,210115
+210201,Puno,Azángaro,Azángaro,200201,210201
+210202,Puno,Azángaro,Achaya,200202,210202
+210203,Puno,Azángaro,Arapa,200203,210203
+210204,Puno,Azángaro,Asillo,200204,210204
+210205,Puno,Azángaro,Caminaca,200205,210205
+210206,Puno,Azángaro,Chupa,200206,210206
+210207,Puno,Azángaro,José Domingo Choquehuanca,200207,210207
+210208,Puno,Azángaro,Muñani,200208,210208
+210209,Puno,Azángaro,Potoni,200210,210209
+210210,Puno,Azángaro,Saman,200212,210210
+210211,Puno,Azángaro,San Anton,200213,210211
+210212,Puno,Azángaro,San José,200214,210212
+210213,Puno,Azángaro,San Juan de Salinas,200215,210213
+210214,Puno,Azángaro,Santiago de Pupuja,200216,210214
+210215,Puno,Azángaro,Tirapata,200217,210215
+210301,Puno,Carabaya,Macusani,200301,210301
+210302,Puno,Carabaya,Ajoyani,200302,210302
+210303,Puno,Carabaya,Ayapata,200303,210303
+210304,Puno,Carabaya,Coasa,200304,210304
+210305,Puno,Carabaya,Corani,200305,210305
+210306,Puno,Carabaya,Crucero,200306,210306
+210307,Puno,Carabaya,Ituata,200307,210307
+210308,Puno,Carabaya,Ollachea,200308,210308
+210309,Puno,Carabaya,San Gaban,200309,210309
+210310,Puno,Carabaya,Usicayos,200310,210310
+210401,Puno,Chucuito,Juli,200401,210401
+210402,Puno,Chucuito,Desaguadero,200402,210402
+210403,Puno,Chucuito,Huacullani,200403,210403
+210404,Puno,Chucuito,Kelluyo,200412,210404
+210405,Puno,Chucuito,Pisacoma,200406,210405
+210406,Puno,Chucuito,Pomata,200407,210406
+210407,Puno,Chucuito,Zepita,200410,210407
+210501,Puno,El Collao,Ilave,201201,210501
+210502,Puno,El Collao,Capazo,201204,210502
+210503,Puno,El Collao,Pilcuyo,201202,210503
+210504,Puno,El Collao,Santa Rosa,201203,210504
+210505,Puno,El Collao,Conduriri,201205,210505
+210601,Puno,Huancané,Huancane,200501,210601
+210602,Puno,Huancané,Cojata,200502,210602
+210603,Puno,Huancané,Huatasani,200511,210603
+210604,Puno,Huancané,Inchupalla,200504,210604
+210605,Puno,Huancané,Pusi,200506,210605
+210606,Puno,Huancané,Rosaspata,200507,210606
+210607,Puno,Huancané,Taraco,200508,210607
+210608,Puno,Huancané,Vilque Chico,200509,210608
+210701,Puno,Lampa,Lampa,200601,210701
+210702,Puno,Lampa,Cabanilla,200602,210702
+210703,Puno,Lampa,Calapuja,200603,210703
+210704,Puno,Lampa,Nicasio,200604,210704
+210705,Puno,Lampa,Ocuviri,200605,210705
+210706,Puno,Lampa,Palca,200606,210706
+210707,Puno,Lampa,Paratia,200607,210707
+210708,Puno,Lampa,Pucara,200608,210708
+210709,Puno,Lampa,Santa Lucia,200609,210709
+210710,Puno,Lampa,Vilavila,200610,210710
+210801,Puno,Melgar,Ayaviri,200701,210801
+210802,Puno,Melgar,Antauta,200702,210802
+210803,Puno,Melgar,Cupi,200703,210803
+210804,Puno,Melgar,Llalli,200704,210804
+210805,Puno,Melgar,Macari,200705,210805
+210806,Puno,Melgar,Nuñoa,200706,210806
+210807,Puno,Melgar,Orurillo,200707,210807
+210808,Puno,Melgar,Santa Rosa,200708,210808
+210809,Puno,Melgar,Umachiri,200709,210809
+210901,Puno,Moho,Moho,201301,210901
+210902,Puno,Moho,Conima,201302,210902
+210903,Puno,Moho,Huayrapata,201304,210903
+210904,Puno,Moho,Tilali,201303,210904
+211001,Puno,San Antonio de Putina,Putina,201101,211001
+211002,Puno,San Antonio de Putina,Ananea,201104,211002
+211003,Puno,San Antonio de Putina,Pedro Vilca Apaza,201102,211003
+211004,Puno,San Antonio de Putina,Quilcapuncu,201103,211004
+211005,Puno,San Antonio de Putina,Sina,201105,211005
+211101,Puno,San Román,Juliaca,200901,211101
+211102,Puno,San Román,Cabana,200902,211102
+211103,Puno,San Román,Cabanillas,200903,211103
+211104,Puno,San Román,Caracoto,200904,211104
+211105,Puno,San Román,San Miguel,,
+211201,Puno,Sandia,Sandia,200801,211201
+211202,Puno,Sandia,Cuyocuyo,200803,211202
+211203,Puno,Sandia,Limbani,200804,211203
+211204,Puno,Sandia,Patambuco,200806,211204
+211205,Puno,Sandia,Phara,200805,211205
+211206,Puno,Sandia,Quiaca,200807,211206
+211207,Puno,Sandia,San Juan del Oro,200808,211207
+211208,Puno,Sandia,Yanahuaya,200810,211208
+211209,Puno,Sandia,Alto Inambari,200811,211209
+211210,Puno,Sandia,San Pedro de Putina Punco,200812,211210
+211301,Puno,Yunguyo,Yunguyo,201001,211301
+211302,Puno,Yunguyo,Anapia,201003,211302
+211303,Puno,Yunguyo,Copani,201004,211303
+211304,Puno,Yunguyo,Cuturapi,201005,211304
+211305,Puno,Yunguyo,Ollaraya,201006,211305
+211306,Puno,Yunguyo,Tinicachi,201007,211306
+211307,Puno,Yunguyo,Unicachi,201002,211307
+220101,San Martín,Moyobamba,Moyobamba,210101,220101
+220102,San Martín,Moyobamba,Calzada,210102,220102
+220103,San Martín,Moyobamba,Habana,210103,220103
+220104,San Martín,Moyobamba,Jepelacio,210104,220104
+220105,San Martín,Moyobamba,Soritor,210105,220105
+220106,San Martín,Moyobamba,Yantalo,210106,220106
+220201,San Martín,Bellavista,Bellavista,210701,220201
+220202,San Martín,Bellavista,Alto Biavo,210704,220202
+220203,San Martín,Bellavista,Bajo Biavo,210706,220203
+220204,San Martín,Bellavista,Huallaga,210705,220204
+220205,San Martín,Bellavista,San Pablo,210703,220205
+220206,San Martín,Bellavista,San Rafael,210702,220206
+220301,San Martín,El Dorado,San José de Sisa,211001,220301
+220302,San Martín,El Dorado,Agua Blanca,211002,220302
+220303,San Martín,El Dorado,San Martín,211004,220303
+220304,San Martín,El Dorado,Santa Rosa,211005,220304
+220305,San Martín,El Dorado,Shatoja,211003,220305
+220401,San Martín,Huallaga,Saposoa,210201,220401
+220402,San Martín,Huallaga,Alto Saposoa,210205,220402
+220403,San Martín,Huallaga,El Eslabón,210206,220403
+220404,San Martín,Huallaga,Piscoyacu,210202,220404
+220405,San Martín,Huallaga,Sacanche,210203,220405
+220406,San Martín,Huallaga,Tingo de Saposoa,210204,220406
+220501,San Martín,Lamas,Lamas,210301,220501
+220502,San Martín,Lamas,Alonso de Alvarado,210315,220502
+220503,San Martín,Lamas,Barranquita,210303,220503
+220504,San Martín,Lamas,Caynarachi,210304,220504
+220505,San Martín,Lamas,Cuñumbuqui,210305,220505
+220506,San Martín,Lamas,Pinto Recodo,210306,220506
+220507,San Martín,Lamas,Rumisapa,210307,220507
+220508,San Martín,Lamas,San Roque de Cumbaza,210316,220508
+220509,San Martín,Lamas,Shanao,210311,220509
+220510,San Martín,Lamas,Tabalosos,210313,220510
+220511,San Martín,Lamas,Zapatero,210314,220511
+220601,San Martín,Mariscal Cáceres,Juanjuí,210401,220601
+220602,San Martín,Mariscal Cáceres,Campanilla,210402,220602
+220603,San Martín,Mariscal Cáceres,Huicungo,210403,220603
+220604,San Martín,Mariscal Cáceres,Pachiza,210404,220604
+220605,San Martín,Mariscal Cáceres,Pajarillo,210405,220605
+220701,San Martín,Picota,Picota,210901,220701
+220702,San Martín,Picota,Buenos Aires,210902,220702
+220703,San Martín,Picota,Caspisapa,210903,220703
+220704,San Martín,Picota,Pilluana,210904,220704
+220705,San Martín,Picota,Pucacaca,210905,220705
+220706,San Martín,Picota,San Cristóbal,210906,220706
+220707,San Martín,Picota,San Hilarión,210907,220707
+220708,San Martín,Picota,Shamboyacu,210910,220708
+220709,San Martín,Picota,Tingo de Ponasa,210908,220709
+220710,San Martín,Picota,Tres Unidos,210909,220710
+220801,San Martín,Rioja,Rioja,210501,220801
+220802,San Martín,Rioja,Awajun,210509,220802
+220803,San Martín,Rioja,Elías Soplin Vargas,210506,220803
+220804,San Martín,Rioja,Nueva Cajamarca,210505,220804
+220805,San Martín,Rioja,Pardo Miguel,210508,220805
+220806,San Martín,Rioja,Posic,210502,220806
+220807,San Martín,Rioja,San Fernando,210507,220807
+220808,San Martín,Rioja,Yorongos,210503,220808
+220809,San Martín,Rioja,Yuracyacu,210504,220809
+220901,San Martín,San Martín,Tarapoto,210601,220901
+220902,San Martín,San Martín,Alberto Leveau,210602,220902
+220903,San Martín,San Martín,Cacatachi,210604,220903
+220904,San Martín,San Martín,Chazuta,210606,220904
+220905,San Martín,San Martín,Chipurana,210607,220905
+220906,San Martín,San Martín,El Porvenir,210608,220906
+220907,San Martín,San Martín,Huimbayoc,210609,220907
+220908,San Martín,San Martín,Juan Guerra,210610,220908
+220909,San Martín,San Martín,La Banda de Shilcayo,210621,220909
+220910,San Martín,San Martín,Morales,210611,220910
+220911,San Martín,San Martín,Papaplaya,210612,220911
+220912,San Martín,San Martín,San Antonio,210616,220912
+220913,San Martín,San Martín,Sauce,210619,220913
+220914,San Martín,San Martín,Shapaja,210620,220914
+221001,San Martín,Tocache,Tocache,210801,221001
+221002,San Martín,Tocache,Nuevo Progreso,210802,221002
+221003,San Martín,Tocache,Polvora,210803,221003
+221004,San Martín,Tocache,Shunte,210804,221004
+221005,San Martín,Tocache,Uchiza,210805,221005
+230101,Tacna,Tacna,Tacna,220101,230101
+230102,Tacna,Tacna,Alto de la Alianza,220111,230102
+230103,Tacna,Tacna,Calana,220102,230103
+230104,Tacna,Tacna,Ciudad Nueva,220112,230104
+230105,Tacna,Tacna,Inclan,220104,230105
+230106,Tacna,Tacna,Pachia,220107,230106
+230107,Tacna,Tacna,Palca,220108,230107
+230108,Tacna,Tacna,Pocollay,220109,230108
+230109,Tacna,Tacna,Sama,220110,230109
+230110,Tacna,Tacna,Coronel Gregorio Albarracín Lanchipa,220113,230110
+230111,Tacna,Tacna,La Yarada los Palos,,
+230201,Tacna,Candarave,Candarave,220401,230201
+230202,Tacna,Candarave,Cairani,220402,230202
+230203,Tacna,Candarave,Camilaca,220406,230203
+230204,Tacna,Candarave,Curibaya,220403,230204
+230205,Tacna,Candarave,Huanuara,220404,230205
+230206,Tacna,Candarave,Quilahuani,220405,230206
+230301,Tacna,Jorge Basadre,Locumba,220301,230301
+230302,Tacna,Jorge Basadre,Ilabaya,220303,230302
+230303,Tacna,Jorge Basadre,Ite,220302,230303
+230401,Tacna,Tarata,Tarata,220201,230401
+230402,Tacna,Tarata,Héroes Albarracín,220205,230402
+230403,Tacna,Tarata,Estique,220206,230403
+230404,Tacna,Tarata,Estique-Pampa,220207,230404
+230405,Tacna,Tarata,Sitajara,220210,230405
+230406,Tacna,Tarata,Susapaya,220211,230406
+230407,Tacna,Tarata,Tarucachi,220212,230407
+230408,Tacna,Tarata,Ticaco,220213,230408
+240101,Tumbes,Tumbes,Tumbes,230101,240101
+240102,Tumbes,Tumbes,Corrales,230102,240102
+240103,Tumbes,Tumbes,La Cruz,230103,240103
+240104,Tumbes,Tumbes,Pampas de Hospital,230104,240104
+240105,Tumbes,Tumbes,San Jacinto,230105,240105
+240106,Tumbes,Tumbes,San Juan de la Virgen,230106,240106
+240201,Tumbes,Contralmirante Villar,Zorritos,230201,240201
+240202,Tumbes,Contralmirante Villar,Casitas,230202,240202
+240203,Tumbes,Contralmirante Villar,Canoas de Punta Sal,230203,240203
+240301,Tumbes,Zarumilla,Zarumilla,230301,240301
+240302,Tumbes,Zarumilla,Aguas Verdes,230304,240302
+240303,Tumbes,Zarumilla,Matapalo,230302,240303
+240304,Tumbes,Zarumilla,Papayal,230303,240304
+250101,Ucayali,Coronel Portillo,Calleria,250101,250101
+250102,Ucayali,Coronel Portillo,Campoverde,250104,250102
+250103,Ucayali,Coronel Portillo,Iparia,250105,250103
+250104,Ucayali,Coronel Portillo,Masisea,250103,250104
+250105,Ucayali,Coronel Portillo,Yarinacocha,250102,250105
+250106,Ucayali,Coronel Portillo,Nueva Requena,250106,250106
+250107,Ucayali,Coronel Portillo,Manantay,250107,250107
+250201,Ucayali,Atalaya,Raymondi,250301,250201
+250202,Ucayali,Atalaya,Sepahua,250304,250202
+250203,Ucayali,Atalaya,Tahuania,250302,250203
+250204,Ucayali,Atalaya,Yurua,250303,250204
+250301,Ucayali,Padre Abad,Padre Abad,250201,250301
+250302,Ucayali,Padre Abad,Irazola,250202,250302
+250303,Ucayali,Padre Abad,Curimana,250203,250303
+250304,Ucayali,Padre Abad,Neshuya,,
+250305,Ucayali,Padre Abad,Alexander Von Humboldt,,
+250401,Ucayali,Purús,Purus,250401,250401
