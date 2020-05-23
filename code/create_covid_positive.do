@@ -52,7 +52,7 @@
 
 	li dpto prov dist if mi(ubigeo) & !mi(dist)
 	**br dpto prov dist if mi(ubigeo) & !mi(dist)
-	drop if mi(ubigeo)
+	**drop if mi(ubigeo)
 
 	keep  uuid *_date is_female is_antibody ubigeo ubigeo_reniec ubigeo_sunat departamento provincia distrito
 	order uuid *_date is_female is_antibody ubigeo ubigeo_reniec ubigeo_sunat departamento provincia distrito
