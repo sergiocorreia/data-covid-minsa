@@ -61,6 +61,8 @@
 
 	save "$data_path/fallecimientos_total.dta", replace
 
+	* Fechas mas entendibles
+	format %tdCY-N-D *date*
 	export delimited "$output_path/fallecimientos_total.csv", delim(",") replace
 
 exit

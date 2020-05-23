@@ -72,6 +72,8 @@
 	compress
 	save "$data_path/fallecimientos_covid.dta", replace
 
-	**export delimited "$output_path/fallecimientos_covid.csv", delim(",") replace
+	* Fechas mas entendibles
+	format %tdCY-N-D *date*
+	export delimited "$output_path/fallecimientos_covid.csv", delim(",") replace
 
 exit

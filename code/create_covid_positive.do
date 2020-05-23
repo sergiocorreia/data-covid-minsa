@@ -63,33 +63,8 @@
 	compress
 	save "$data_path/positivos_covid.dta", replace
 
-exit
-
-asd
-
-
-	merge 1:1 uuid using "`temp'", // keepus() nogen nolab nonote
-	gen byte is_death = _merge != 1
-	drop _merge
-
-
-	drop if mi(dist)
-
-	**br if _merge == 1 // 8865 8851 235
-
-	merge m:1 ubigeo using "$output_path/poblacion", keep(master match) keepusing(poblacion superficie lat lon) nogen nolab nonote
-
-
-
-keep uuid birth_date exam_date death_date is_female exam_type is_death dpto prov dist ubigeo poblacion superficie lat lon
-order uuid birth_date exam_date death_date is_female exam_type is_death dpto prov dist ubigeo poblacion superficie lat lon
-sort exam_date death_date
-compress
-
-saveold "$output_path/covid_22mayo", replace v(14)
-
-* Fechas mas entendibles
-format %tdCY-N-D *date*
-outsheet using "$output_path/covid_22mayo.csv", comma replace
+	* Fechas mas entendibles
+	format %tdCY-N-D *date*
+	outsheet using "$output_path/positivos_covid.csv", comma replace
 
 exit
