@@ -1,6 +1,8 @@
 # Limpieza rapida de datos de covid de minsa
 
-*(ultima descarga de MINSA: 23may2020)*
+*(ultima descarga de MINSA: 27may2020)*
+
+*Bajar la data limpia [de aqui](https://github.com/sergiocorreia/data-covid-minsa/releases/tag/27-05-2020) (en CSV y Stata)
 
 ## Ejemplos de analisis
 
