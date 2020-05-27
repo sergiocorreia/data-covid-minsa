@@ -11,12 +11,4 @@
 	do create_totals
 
 
-// --------------------------------------------------------------------------
-// Some analysis
-// --------------------------------------------------------------------------
-
-	do analisis_excess_death
-	do analisis_multiples_distritos
-
-
 exit

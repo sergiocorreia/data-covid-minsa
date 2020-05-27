@@ -13,7 +13,7 @@
 // Importar fallecimientos
 // --------------------------------------------------------------------------
 
-	import delimited "$input_path/minsa/DATASET_SINADEF_20052020.csv", asdouble case(lower) clear varnames(1)
+	import delimited "$input_path/minsa/fallecidos_sinadef.csv", asdouble case(lower) clear varnames(3) delim(";")
 	drop nº
 	gen byte is_female = sexo == "FEMENINO" if inlist(sexo, "FEMENINO", "MASCULINO")
 	replace edad = "" if edad =="NO REGISTRADO"
@@ -21,8 +21,10 @@
 	replace age = 0 if inlist(tiempoedad, "DIAS", "HORAS", "MESES", "MINUTOS", "SEGUNDOS") //  =(
 
 	* Excluir muerte violenta
+	tab muerteviolenta
 	replace muerteviolenta = trim(muerteviolenta)
-	keep if inlist(muerteviolenta, "", "NO SE CONOCE")
+	assert inlist(muerteviolenta, "ACCIDENTE DE TRABAJO", "ACCIDENTE DE TRANSITO", "HOMICIDIO", "NO SE CONOCE", "OTRO ACCIDENTE", "SIN REGISTRO", "SUICIDIO")
+	keep if inlist(muerteviolenta, "", "NO SE CONOCE", "SIN REGISTRO")
 
 	* Solo Peru
 	keep if trim(paisdomicilio) == "PERU"
@@ -40,7 +42,7 @@
 	gen x = substr(codubigeodomicilio, 7, 8)
 	replace x = subinstr(x, "-", "", .)
 	gen long ubigeo_reniec = real(x)
-	br cod* x ubigeo_reniec
+	*br cod* x ubigeo_reniec
 	drop x
 
 	merge m:1 ubigeo_reniec using "$data_path/ubigeo_reniec_map.dta" , keep(master match match_update) nolab nonote nogen update
@@ -49,9 +51,11 @@
 	li dpto prov dist if mi(ubigeo) & !mi(dist) // 11
 
 	gen long death_date = .
-	replace death_date = date(fecha, "DMY") if strpos(fecha, "/2020")
-	replace death_date = date(fecha, "DMY") if strpos(fecha, "/201")
+	*replace death_date = date(fecha, "DMY") if strpos(fecha, "/2020")
+	*replace death_date = date(fecha, "DMY") if strpos(fecha, "/201")
+	replace death_date = date(fecha, "YMD") if strpos(fecha, "20")==1
 	format %td *_date
+
 	la var death_date "Date of death"
 	li fecha if mi(death_date)
 

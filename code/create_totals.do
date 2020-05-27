@@ -53,6 +53,7 @@
 	drop if mi(date) | mi(ubigeo)
 
 	gen byte i = 0
+	cou
 	gcollapse (count) deaths=i, by(ubigeo date) fast
 	xtset ubigeo date
 	tsfill, full

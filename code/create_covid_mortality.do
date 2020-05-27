@@ -13,7 +13,7 @@
 // Importar fallecimientos
 // --------------------------------------------------------------------------
 
-	import delimited "$input_path/minsa/FALLECIDOS_CDC.csv", asdouble case(lower) clear varnames(1)
+	import delimited "$input_path/minsa/fallecidos_covid.csv", asdouble case(lower) clear varnames(1)
 
 
 	gen long birth_date = .

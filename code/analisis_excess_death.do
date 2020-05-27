@@ -1,9 +1,9 @@
 * ===========================================================================
-* Series por distrito en Lima
+* Exceso de mortalidad
 * ===========================================================================
 	include common.doh
 
-	use "$data_path/totaL_muertes_no_violentas"
+	use "$data_path/total_muertes_no_violentas"
 
 	gen t = date // wofd(date)
 	su t
@@ -17,6 +17,7 @@
 	loc t day
 	loc fmt 0(1000)6000
 	loc fmt 0(100)1000
+
 	gcollapse (sum) deaths, by(year `t') fast
 
 	tw	///
@@ -38,5 +39,12 @@
 
 	graph export "../figures/excess_mortality.png", replace width(2000)
 	graph export "../figures/excess_mortality.pdf", replace
+
+	di %td td(1jan2020)+96
+	di  td(1apr2020) - td(1jan2020) // 91
+	di  td(1may2020) - td(1jan2020) // 121
+	gen delta = deaths - 300
+	su delta if (year == 2020) & (day >= 121)
+	di r(sum)
 
 exit

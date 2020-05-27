@@ -37,7 +37,6 @@
 		legend(order(1 "La Molina" 2 "SJL" 3 "La Victoria" 4 "Lima" 5 "Jesús María")  rows(1) region(fcolor(white) lcolor(white)) ) ///
 		xsize(20) ysize(14)
 
-asd
 
 	graph export "../figures/lima_cum.png", replace width(2000)
 	graph export "../figures/lima_cum.pdf", replace

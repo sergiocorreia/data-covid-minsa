@@ -13,7 +13,7 @@
 // Importar casos
 // --------------------------------------------------------------------------
 
-	import delimited "$input_path/minsa/DATOSABIERTOS_SISCOVID.csv", asdouble case(lower) clear varnames(1)
+	import delimited "$input_path/minsa/positivos_covid.csv", asdouble case(lower) clear varnames(1)
 
 	* Quitar duplicados
 	bys _all: keep if _n == 1
