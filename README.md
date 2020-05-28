@@ -1,10 +1,12 @@
 # Limpieza rapida de datos de covid de minsa
 
-*(ultima descarga de MINSA: 27may2020)*
+*(ultima descarga de MINSA: Jueves 28 de mayo de 2020)*
 
-*Bajar la data limpia [de aqui](https://github.com/sergiocorreia/data-covid-minsa/releases/tag/27-05-2020) (en CSV y Stata)
+*Bajar la data limpia [de aqui](https://github.com/sergiocorreia/data-covid-minsa/releases/tag/27-05-2020) (en CSV y Stata)*
 
 ## Ejemplos de analisis
+
+Los datos más recientes (en lineas punteadas) se suelen revisar a la alza, asi que no los tomen como un indicio de cambios de la situación.
 
 <img src="figures/excess_mortality.png" width="600">
 

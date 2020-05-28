@@ -45,9 +45,10 @@
 	graph export "../figures/excess_mortality_lima_metro.pdf", replace
 
 	di %td td(1jan2020)+96
-	di  td(1apr2020) - td(1jan2020)
+	di  td(1apr2020) - td(1jan2020) // 91
+	di  td(1may2020) - td(1jan2020) // 121
 	gen delta = deaths - 90
-	su delta if (year == 2020) & (day >= 91)
+	su delta if (year == 2020) & (day >= 121)
 	di r(sum)
 
 

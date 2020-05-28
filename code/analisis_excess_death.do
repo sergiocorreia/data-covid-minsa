@@ -5,9 +5,12 @@
 
 	use "$data_path/total_muertes_no_violentas"
 
+
 	gen t = date // wofd(date)
 	su t
-	drop if t == r(max) // week not ended
+	loc max = r(max)
+	gen byte tail = t >= `max' - 3
+	*drop if t == r(max) // week not ended
 	
 	gen day = doy(date)
 	gen week = week(date)
@@ -17,14 +20,15 @@
 	loc t day
 	loc fmt 0(1000)6000
 	loc fmt 0(100)1000
-
-	gcollapse (sum) deaths, by(year `t') fast
+	gen deaths_tail = deaths if tail
+	gcollapse (sum) deaths*, by(year `t') fast
 
 	tw	///
 		(line deaths `t' if year == 2017, lc(gs8) lw(medium)) ///
 		(line deaths `t' if year == 2018, lc(gs6) lw(medium)) ///
 		(line deaths `t' if year == 2019, lc(gs4) lw(medium)) ///
 		(line deaths `t' if year == 2020, lc(orange) lw(medium)) ///
+		(line deaths_tail `t' if year == 2020, lc(white) lw(medium) lpat(dot)) ///
 		`cmd' ///
 		, ///
 		title("Muertes no violentas por dia (2017-2020)") yscale(range(0 0)) ///
