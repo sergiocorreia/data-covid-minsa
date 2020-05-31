@@ -15,6 +15,7 @@
 
 	import delimited "$input_path/minsa/fallecidos_covid.csv", asdouble case(lower) clear varnames(1)
 
+	rename edad_declarada age
 
 	gen long birth_date = .
 	cap rename fecha_nac fecha_nacimiento // nombre cambio en may22
@@ -67,8 +68,8 @@
 	bys uuid (death_date): keep if _n == 1
 	gisid uuid
 
-	keep uuid *_date is_female ubigeo ubigeo_reniec ubigeo_sunat departamento provincia distrito
-	order uuid *_date is_female ubigeo ubigeo_reniec ubigeo_sunat departamento provincia distrito
+	keep uuid *_date age is_female ubigeo ubigeo_reniec ubigeo_sunat departamento provincia distrito
+	order uuid *_date age is_female ubigeo ubigeo_reniec ubigeo_sunat departamento provincia distrito
 	compress
 	save "$data_path/fallecimientos_covid.dta", replace
 

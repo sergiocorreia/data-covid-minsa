@@ -51,8 +51,8 @@
 	li dpto prov dist if mi(ubigeo) & !mi(dist) // 11
 
 	gen long death_date = .
-	*replace death_date = date(fecha, "DMY") if strpos(fecha, "/2020")
-	*replace death_date = date(fecha, "DMY") if strpos(fecha, "/201")
+	replace death_date = date(fecha, "DMY") if strpos(fecha, "/2020")
+	replace death_date = date(fecha, "DMY") if strpos(fecha, "/201")
 	replace death_date = date(fecha, "YMD") if strpos(fecha, "20")==1
 	format %td *_date
 
