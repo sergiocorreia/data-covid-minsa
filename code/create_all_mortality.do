@@ -21,7 +21,7 @@
 	replace age = 0 if inlist(tiempoedad, "DIAS", "HORAS", "MESES", "MINUTOS", "SEGUNDOS") //  =(
 
 	* Excluir muerte violenta
-	tab muerteviolenta
+	tab muerteviolenta, m
 	replace muerteviolenta = trim(muerteviolenta)
 	assert inlist(muerteviolenta, "ACCIDENTE DE TRABAJO", "ACCIDENTE DE TRANSITO", "HOMICIDIO", "NO SE CONOCE", "OTRO ACCIDENTE", "SIN REGISTRO", "SUICIDIO")
 	keep if inlist(muerteviolenta, "", "NO SE CONOCE", "SIN REGISTRO")
@@ -51,9 +51,9 @@
 	li dpto prov dist if mi(ubigeo) & !mi(dist) // 11
 
 	gen long death_date = .
-	replace death_date = date(fecha, "DMY") if strpos(fecha, "/2020")
-	replace death_date = date(fecha, "DMY") if strpos(fecha, "/201")
-	replace death_date = date(fecha, "YMD") if strpos(fecha, "20")==1
+	replace death_date = date(fecha, "DMY") if mi(death_date) & (strpos(fecha, "/2020"))
+	replace death_date = date(fecha, "DMY") if mi(death_date) & (strpos(fecha, "/201"))
+	replace death_date = date(fecha, "YMD") if mi(death_date) & (strpos(fecha, "20")==1)
 	format %td *_date
 
 	la var death_date "Date of death"

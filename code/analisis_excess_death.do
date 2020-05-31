@@ -32,8 +32,8 @@
 		`cmd' ///
 		, ///
 		title("Muertes no violentas por dia (2017-2020)") yscale(range(0 0)) ///
-		xtitle("Dia") ///
-		ytitle("Casos", margin(right) ) ///
+		xtitle("Día") ///
+		ytitle("Número de fallecidos", margin(right) ) ///
 		xlabel(1(31)360) ///
 		ylabel(`fmt', format(%6.0fc) angle(horizontal)) ///
 		scheme(s2color) ///
