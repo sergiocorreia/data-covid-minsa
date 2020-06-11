@@ -36,7 +36,7 @@
 
 	* Quitar fechas invalidas
 	**replace birth_date = . if birth_date > td(21may2020)
-	replace exam_date = . if !inrange(exam_date, td(01mar2020), td(21may2020))
+	replace exam_date = . if !inrange(exam_date, td(01mar2020), .) // td(21may2020))
 	
 	gen byte is_female = sexo == "FEMENINO" if inlist(sexo, "FEMENINO", "MASCULINO")
 	assert inlist(metododx, "PR", "PCR") // Prueba Rapida ; Polymerise chain reaction

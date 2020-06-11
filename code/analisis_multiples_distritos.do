@@ -17,7 +17,7 @@
 
 	keep if date >= td(06mar2020)
 	loc t0 = td(06mar2020)
-	loc t1 = td(21may2020)
+	loc t1 = td(11jun2020)
 
 	tw	///
 		(line x date if distrito == "La Molina", lc(green) lw(medium)) ///
